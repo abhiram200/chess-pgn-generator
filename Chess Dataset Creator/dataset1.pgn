@@ -1,0 +1,3269 @@
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "1"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 Nf6 5. Bf4 Nbd7 6. e3 e5 7. e4 exf4 8. Nxd5 Nxd5 9. exd5 Bd6 10. Nf5 Be5 11. Nd4 Qb6 12. Nf5 Qb4+ 13. Qd2 Qe4+ 14. Be2 Qxf5 15. Bd3 Qf6 16. Qe2 O-O 17. Qh5 g6 18. Qf3 Bxb2 19. Rd1 Ne5 20. Qe4 Bc3+ 21. Kf1 Re8 22. Kg1 Bg4 23. Rb1 Nf3+ 24. gxf3 Bh3 25. Qxe8+ Rxe8 26. Bf1 Qg5+ 27. Bg2 Qxg2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "2"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. Nf3 Nc6 6. d5 Rg8 7. dxe6 dxe6 8. Qxd8+ Kxd8 9. Nc3 f6 10. Be3 fxe5 11. Bd3 Rh8 12. Ng5 h6 13. Nf7+ Ke8 14. Bg6 Rg8 15. O-O-O Rh8 16. Nxh8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "3"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qh5 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 dxe3 11. Qxe3+ Nge7 12. Ne6 Bxe6 13. Qxe6 Nd4 14. Qc4 O-O-O 15. Rd1 Rhe8 16. Qc3 Nec6+ 17. Kd2 Qg5+ 18. f4 Qxf4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "4"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qg6 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 dxe3 11. Qxe3+ Nge7 12. Ne4 Nf5 13. Qf4 O-O 14. Qxc7 Qh6 15. Be2 Rf7 16. Nf6+ Qxf6 17. Qf4 Ncd4 18. c3 Nxe2 19. Kxe2 g5 20. Qe4 Bd7 21. Qxb7 Nd4+ 22. cxd4 Qxf2+ 23. Kd1 Bg4+ 24. Qf3 Rxf3 25. gxf3 Bxf3+ 26. Kc1 Rc8+ 27. Kb1 Qc2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "5"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nc6 9. Qh5+ g6 10. Qf3 Qe7 11. Be2 Bg7 12. O-O Nf6 13. Bd2 Ne4 14. Rfd1 Be6 15. Qf4 O-O-O 16. Be1 Rhe8 17. Bf3 Bd7 18. Bd2 g5 19. Bb4 Nxb4 20. Bxe4 gxf4 21. Nxb4 fxe3 22. Rxd7 exf2+ 23. Kxf2 Rxd7 24. Bxf5 Qe2+ 25. Kg1 Bd4+ 26. Kh1 Qe1+ 27. Rxe1 Rxe1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "6"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. b4 Ne4 7. Qf3 f5 8. Qxf5 Na6 9. Qxe4 Nxb4 10. a3 Na6 11. Qc2 Nc5 12. Be2 d6 13. Bh5+ g6 14. Bxg6+ hxg6 15. Qxg6+ Kd7 16. e6+ Nxe6 17. dxe6+ Kc6 18. Nc3 Rh4 19. Qf5 Rxc4 20. Qb5# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "7"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. Bf4 Bb4 5. a3 Bxc3+ 6. bxc3 c5 7. dxc5 Qa5 8. Qd4 Nc6 9. Qe3 O-O 10. Ne5 Nxe5 11. Bxe5 Ng4 12. Qg5 Nxe5 13. Qxe5 Bd7 14. Qd4 Rfc8 15. Rb1 b6 16. cxb6 Rxc3 17. bxa7 Rb3+ 18. c3 Rxb1+ 19. Kd2 Qxa3 20. Kc2 Qc1+ 21. Kd3 Bb5+ 22. c4 Rb3+ 23. Qc3 Qxc3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "8"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. O-O e4 13. Nd4 c5 14. Ne6 c4 15. Nxc7+ Kd8 16. Nxa8 e5 17. Be3 Nb5 18. Rc1 Nd6 19. Bxa7 Nb5 20. Ne3 Nxa7 21. Rfd1+ Kc8 22. Rxc4+ Kb8 23. Rd8+ Kb7 24. Rc7+ Ka6 25. Rb8 Nb5 26. Rb6+ Ka5 27. Rcb7 Nd6 28. Ra7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "9"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "1/2-1/2"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 Bxc3+ 9. Bd2 exd4 10. Bxc3 Qxc3+ 11. Qd2 Qxa1+ 12. Qd1 Qc3+ 13. Qd2 Qa1+ 14. Qd1 Qc3+ 15. Qd2 1/2-1/2
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "10"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Bd2 e4 13. Nd4 c5 14. Ne6 c4 15. Nxc7+ Kd8 16. Nxa8 e5 17. Nc3 Be7 18. O-O-O Kd7 19. Be3 Rxa8 20. Nxe4 Kc7 21. Nxd6 Bxd6 22. Kb1 e4 23. Rd4 Re8 24. Rxc4+ Kb8 25. Ra4 Re7 26. Ra5 Rf7 27. Rb5+ Ka8 28. Rd1 Bxh2 29. Rd8+ Bb8 30. Rbxb8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "11"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 Nf6 5. Bf4 Nbd7 6. e3 e5 7. e4 exf4 8. Nxd5 Bc5 9. Qd3 Nxd5 10. exd5 Qe7+ 11. Be2 O-O 12. Kf1 Re8 13. Bf3 Ne5 14. Qe4 Bxd4 15. Qxd4 Nxf3 16. gxf3 Bh3+ 17. Kg1 Qg5# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "12"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bd3 Nc5 11. Bb5 a6 12. Bxc6+ bxc6 13. Ke2 O-O-O 14. Be3 Nd3 15. Nc3 Nxb2 16. Rab1 Nc4 17. Ba7 e5 18. Rb8+ Kd7 19. Nxe5+ Nxe5 20. Rd1+ Nd3 21. Rxd3+ Ke8 22. Rbxd8+ Kf7 23. Rf3+ Kg8 24. Rfxf8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "13"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Nf3 Nd7 13. Nb5 Nf6 14. d6 cxd6 15. Nxd6+ Kd8 16. Ng5 Bg4 17. Qb3 Rg8 18. Ngxf7+ Kc7 19. Qxb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "14"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nc6 9. Qh5+ g6 10. Qf3 Nf6 11. Be2 Bg7 12. O-O Qe7 13. Bd2 Ne4 14. Rfd1 Bd7 15. Qf4 O-O-O 16. Bf3 g5 17. Bb4 Nxb4 18. Bxe4 gxf4 19. Nxb4 Qxb4 20. Rxd7 Kxd7 21. Bxf5+ Kc6 22. exf4 Bxb2 23. Rf1 Qxf4 24. Be6 Qe4 25. Bb3 Rhf8 26. Rb1 Rxf2 27. Kxf2 Rd2+ 28. Kf1 Qxg2+ 29. Ke1 Qf2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "15"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qe7 5. f4 f6 6. Nxf6+ gxf6 7. Nc4 Nc6 8. e3 Bf5 9. Bd3 Bxd3 10. cxd3 O-O-O 11. O-O Qd7 12. exd4 Qxd4+ 13. Ne3 h5 14. g4 hxg4 15. Qxg4+ Kb8 16. Qg6 Nb4 17. Qe4 Qd7 18. f5 Nxd3 19. Rd1 Bc5 20. Qe6 Qg7+ 21. Kf1 Rxh2 22. Ng4 Qxg4 23. Qc8+ Rxc8 24. Re1 Qxf5# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "16"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Nf3 Nd7 13. Nb5 Nf6 14. d6 cxd6 15. Nxd6+ Kd8 16. Ng5 Bg4 17. Qb3 Rg8 18. Ngxf7+ Kc7 19. Qxb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "17"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Nf3 Nd7 13. Nb5 Nf6 14. d6 cxd6 15. Nxd6+ Kd8 16. Ng5 Bg4 17. Qb3 Rg8 18. Ngxf7+ Kc7 19. Qxb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "18"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 c5 4. dxc5 Nc6 5. Bg5 d4 6. Bxf6 exf6 7. Ne4 Bf5 8. Nfd2 Qd5 9. c4 Qe5 10. f4 Qe6 11. Qb1 O-O-O 12. Qd3 Re8 13. e3 Bxe4 14. Qxe4 Qxe4 15. Nxe4 Rxe4 16. Bd3 Rxe3+ 17. Kd2 Bxc5 18. f5 Ne5 19. Be2 Rd8 20. Rhe1 Bb4+ 21. Kc2 d3+ 22. Bxd3 Bxe1 23. Bf1 Rd2+ 24. Kb1 Rf2 25. c5 Bc3 26. Be2 Rfxe2 27. bxc3 Nd3 28. c6 Rb2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "19"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. Nf3 Nc6 3. d5 Nb4 4. a3 Nbxd5 5. c4 Nb6 6. c5 Nbd5 7. e4 e6 8. exd5 Nxd5 9. Bc4 Bxc5 10. Bxd5 exd5 11. O-O c6 12. Re1+ Kf8 13. b4 Qf6 14. bxc5 Qxa1 15. Qe2 Qxb1 16. Qe8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "20"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Bd2 e4 13. Nd4 c5 14. Ne6 c4 15. Nxc7+ Kd8 16. Nxa8 e5 17. Ba5+ Kc8 18. Nc3 Kb8 19. Nc7 Nb7 20. Na6+ Kc8 21. Bc7 Bd6 22. Bxd6 Nxd6 23. O-O-O Rd8 24. Rd5 Kb7 25. Nc5+ Kb8 26. Rhd1 Rc8 27. Nd7+ Ka8 28. Rxd6 e3 29. fxe3 Re8 30. Nc5 Kb8 31. Nb5 Rc8 32. Rd8 Rxd8 33. Rxd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "21"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 exd4 9. Qxd4 Bxc3+ 10. Bd2 Bxd4 11. Bxa5 Bxa1 12. e4 Nc6 13. Bb5 Be6 14. Bxc6+ bxc6 15. O-O Be5 16. f4 Bd4+ 17. Kh1 Nf6 18. Rd1 Bc5 19. e5 Ne4 20. Re1 Nf2+ 21. Kg1 Nd3+ 22. Kh1 Nxe1 23. Bxe1 O-O-O 24. Ba5 Rd1+ 25. Be1 Rxe1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "22"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nc6 9. Qh5+ g6 10. Qf3 Nf6 11. Be2 Bg7 12. O-O Qe7 13. Bd2 Ne4 14. Rfd1 Be6 15. Qf4 O-O-O 16. Be1 g5 17. Qf3 Kb8 18. Rac1 h5 19. Ra1 g4 20. Qf4 Bc8 21. f3 gxf3 22. Bxf3 Bh6 23. Bh4 Bxf4 24. Bxe7 Bxe3+ 25. Kh1 Nxe7 26. Ne5 Nf2+ 27. Kg1 Nxd1+ 28. Kh1 Nf2+ 29. Kg1 Nd3+ 30. Kh1 Nxe5 31. Re1 f4 32. Be4 Rd2 33. h3 Nf5 34. Kh2 Ng4+ 35. Kh1 Ng3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "23"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 Nf6 7. Bd3 Nb4 8. Ne5 Nxd3 9. Nxf6+ gxf6 10. Nxd3 Rg8 11. Nf4 e5 12. Nd5 Bg4+ 13. Ke1 O-O-O 14. e4 Bh5 15. Kf1 f5 16. Nc3 Bb4 17. exf5 Bxc3 18. g4 Rd1+ 19. Kg2 Rxg4+ 20. Kh3 Rxh1 21. bxc3 Rgg1 22. f4 Bg4+ 23. Kh4 Bxf5 24. Kh5 Rxh2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "24"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "25"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 e6 3. e4 d4 4. Bb5+ c6 5. Bc4 dxc3 6. dxc3 Qxd1+ 7. Kxd1 a5 8. Bg5 Nf6 9. Bxf6 gxf6 10. Nd4 Nd7 11. Kc1 Nc5 12. Re1 e5 13. Nf3 a4 14. Kb1 b5 15. Bd3 a3 16. bxa3 Be6 17. c4 bxc4 18. Be2 Rb8+ 19. Kc1 Bh6+ 20. Kd1 Rd8+ 21. Bd3 cxd3 22. cxd3 Rxd3+ 23. Ke2 Bc4 24. Rh1 Rd2+ 25. Ke1 Nd3+ 26. Kf1 Nxf2+ 27. Kg1 Nh3+ 28. gxh3 Be3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "26"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. Nf3 Nf6 2. d4 Nc6 3. d5 Nb4 4. Nc3 e6 5. e4 Bc5 6. a3 Na6 7. e5 Nxd5 8. Nxd5 exd5 9. Bxa6 bxa6 10. Qxd5 Bxf2+ 11. Kxf2 c6 12. Qd6 Qb6+ 13. Be3 Qxb2 14. Bg5 h6 15. Qe7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "27"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. Bf4 c5 5. e3 a6 6. Bd3 c4 7. Be2 b5 8. a4 b4 9. Bxb8 bxc3 10. Be5 cxb2 11. Rb1 Qa5+ 12. Kf1 c3 13. Bxf6 gxf6 14. Qd3 Bd7 15. Kg1 Bxa4 16. e4 Bb5 17. Qe3 Qa2 18. Bxb5+ axb5 19. Qe1 Qxb1 20. Qxb1 Ra1 21. Nd2 cxd2 22. Qf1 Rxf1+ 23. Kxf1 d1=Q# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "28"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 Bxc3+ 9. Bd2 exd4 10. Bxc3 Qxc3+ 11. Qd2 Qxa1+ 12. Qd1 Qc3+ 13. Qd2 Qa1+ 14. Qd1 Qxa2 15. Qxd4 Nc6 16. Qxg7 Qb1+ 17. Kd2 Bg4 18. Qxh8 O-O-O+ 19. Ke3 Qc1+ 20. Ke4 f5# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "29"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 e5 7. Bb5 f6 8. Bxc6+ bxc6 9. Bd2 a5 10. Bc3 Ne7 11. Kc1 h5 12. Kb1 h4 13. Re1 Nd5 14. Rd1 h3 15. gxh3 Bxh3 16. Re1 Bg2 17. Ned2 Nxc3+ 18. bxc3 Ba3 19. Rg1 Rb8+ 20. Nb3 Bxf3 21. Rxg7 Rxh2 22. Rg8+ Kf7 23. Rxb8 Rh1+ 24. Nc1 Rxc1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "30"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. Nf3 Nc6 3. d5 Nb4 4. a3 Nbxd5 5. c4 Nb6 6. c5 Nbd5 7. e4 e6 8. exd5 Nxd5 9. Bc4 Bxc5 10. Bxd5 exd5 11. O-O c6 12. Re1+ Kf8 13. Nc3 Qb6 14. Na4 Bxf2+ 15. Kf1 Qc7 16. Kxf2 d6 17. Qd4 Kg8 18. Re8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "31"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Nf3 d6 7. b4 Ncd7 8. e6 fxe6 9. Ng5 exd5 10. Ne6 Nc6 11. Nxd8 Kxd8 12. cxd5 Nxb4 13. Be2 Ne5 14. O-O e6 15. dxe6 Bxe6 16. Na3 Bxa2 17. Bg5+ Be7 18. Qc1 Bxg5 19. Qxg5+ Kc8 20. Nb5 Rg8 21. Qe7 Nd5 22. Qe6+ Kb8 23. Qxg8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "32"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qg6 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 dxe3 11. Qxe3+ Nge7 12. Ne4 O-O 13. d4 Nd5 14. Bc4 Be6 15. Bxd5 Bxd5 16. Nc5 Nb4 17. Kf1 Qxg2+ 18. Ke2 Rxf2+ 19. Qxf2 Re8+ 20. Ne4 Rxe4+ 21. Kd2 Qxf2+ 22. Kc3 Qxd4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "33"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. Bf4 Bb4 5. a3 Bxc3+ 6. bxc3 c5 7. dxc5 Ne4 8. Qd4 O-O 9. e3 Nc6 10. Qd3 Qf6 11. Bd6 Rd8 12. O-O-O Nxf2 13. Qb5 Nxh1 14. Bc7 Rd7 15. Ba5 Nf2 16. Re1 Qe7 17. Nd4 Nxa5 18. Qxa5 Rc7 19. Nb3 e5 20. c4 Be6 21. cxd5 Bxd5 22. c4 Be6 23. e4 Rd7 24. Kb1 Rad8 25. Qxa7 Qh4 26. c6 bxc6 27. Qe3 Ng4 28. Qg3 Qe7 29. h3 Qxa3 30. hxg4 Rb7 31. Re3 Rxb3+ 32. Rxb3 Rd1+ 33. Kc2 Qc1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "34"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. Bf4 c5 5. e3 a6 6. Bd3 c4 7. Be2 Bb4 8. a3 Bxc3+ 9. bxc3 Ne4 10. O-O f6 11. Qe1 O-O 12. Rd1 Nc6 13. Bg3 Bd7 14. Bf4 Qa5 15. Rb1 b5 16. Ra1 g5 17. Bg3 Qxc3 18. Qxc3 Nxc3 19. Rfe1 Ne4 20. Rad1 Nc3 21. Rd2 h5 22. Bd6 Rfc8 23. Bg3 h4 24. Bd6 Ne4 25. Bc5 g4 26. Rdd1 gxf3 27. Bxf3 Nxc5 28. dxc5 Ra7 29. e4 d4 30. h3 e5 31. Re2 c3 32. Ree1 b4 33. axb4 Nxb4 34. Rb1 a5 35. Rbd1 Nxc2 36. Re2 Nb4 37. Ree1 Rxc5 38. Re2 Rcc7 39. Ree1 Be8 40. Re2 Kh8 41. Ree1 c2 42. Rc1 d3 43. Ra1 d2 44. Rec1 dxc1=Q+ 45. Rxc1 Nd3 46. Bh5 Bxh5 47. g4 Nxc1 48. gxh5 Ne2+ 49. Kf1 Nf4 50. Kg1 Rg7+ 51. Kh2 Rg2+ 52. Kh1 c1=Q# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "35"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. b7 Rb8 13. Bb5+ Nd7 14. Bxd2 Rxb7 15. Bc6 Rb8 16. Nf3 e6 17. O-O Qb6 18. Rfe1 Qxb2 19. dxe6 fxe6 20. Qc4 e5 21. Qe6+ Be7 22. Bg5 d5 23. Qxe7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "36"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 f5 5. Nc5 e5 6. exd4 e4 7. Qe2 Qe7 8. Ng1 Nxd4 9. Qh5+ g6 10. Bb5+ Nxb5 11. Qe2 c6 12. Nb3 Be6 13. a4 Nc7 14. Nd4 Bf7 15. g4 O-O-O 16. c3 Nf6 17. gxf5 Rg8 18. Nh3 gxf5 19. Nxf5 Qd7 20. Ng3 Qxh3 21. Nxe4 Nxe4 22. Qxe4 Bd5 23. Qe3 Re8 24. Qxe8+ Nxe8 25. Rf1 Qe6+ 26. Kd1 Bb3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "37"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 e5 7. Bb5 Nf6 8. Bxc6+ bxc6 9. Nxf6+ gxf6 10. e4 Rg8 11. Rg1 Rg4 12. Nd2 Bc5 13. Ke2 f5 14. h3 Ba6+ 15. Ke1 Rf4 16. exf5 Bxf2+ 17. Kd1 Bxg1 18. Nf3 Rd8+ 19. Ke1 Re4+ 20. Be3 Rxe3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "38"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Nf3 d6 7. b4 Ncd7 8. e6 fxe6 9. Ng5 exd5 10. Ne6 Nc6 11. Nxd8 Kxd8 12. cxd5 Nxb4 13. Be2 Ne5 14. O-O e6 15. dxe6 Bxe6 16. Bb2 Nc4 17. Bc3 Nc6 18. Re1 Kc8 19. Bg4 Bxg4 20. Qxg4+ Kb8 21. Re8+ Nd8 22. Rxd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "39"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nc6 9. Qh5+ g6 10. Qf3 Nf6 11. Be2 Bg7 12. O-O Qe7 13. Bd2 Ne4 14. Rfd1 Be6 15. Qf4 O-O-O 16. Be1 a6 17. Bf3 Bd7 18. Bd2 g5 19. Bb4 Nxb4 20. Bxe4 gxf4 21. Nxb4 Qxe4 22. Nd5 fxe3 23. Nxe3 f4 24. Nd5 Rhg8 25. Rac1 Bd4 26. Ne7+ Kb8 27. Nxg8 Bc6 28. Kf1 Qxg2+ 29. Ke2 Qf3+ 30. Kd2 Bxf2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "40"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 exd4 9. Qxd4 Nc6 10. Qe4+ Be6 11. e3 Bxc3+ 12. Ke2 Bxa1 13. Bf4 O-O-O 14. a4 Bg4+ 15. Qf3 Qd2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "41"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 Nf6 5. Bf4 Nbd7 6. e3 e5 7. e4 exf4 8. Nxd5 Bc5 9. Qd3 Nxd5 10. exd5 O-O 11. O-O-O Nf6 12. c4 Re8 13. Kb1 Ng4 14. Qf3 Qf6 15. Qd3 Nxf2 16. Qf3 Bxd4 17. Rxd4 Qxd4 18. Rg1 Bf5+ 19. Ka1 Re1+ 20. Qd1 Rxd1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "42"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 exd4 9. Qxd4 Nc6 10. Qe4+ Be6 11. e3 Bxc3+ 12. Ke2 Qxg5 13. h4 Qc5 14. Rd1 Nf6 15. Qa4 Bc4+ 16. Kf3 Qh5+ 17. Kg3 Ne4+ 18. Kh2 Qxh4+ 19. Kg1 Qxf2+ 20. Kh2 Be5+ 21. Kh3 Qg3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "43"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. b7 Rb8 13. Bb5+ Nd7 14. Bxd2 Rxb7 15. a4 e6 16. dxe6 fxe6 17. Qh3 e5 18. Qe6+ Qe7 19. Qd5 Rb8 20. Nf3 e4 21. O-O exf3 22. Rfe1 fxg2 23. Qxd6 Rxb5 24. axb5 Ne5 25. Rxe5 c4 26. Rxa7 Qxe5 27. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "44"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. b7 Rb8 14. Bxd2 Rxb7 15. a4 e6 16. dxe6 fxe6 17. Qh3 e5 18. Nf3 e4 19. Ng5 Qf6 20. Nxe4 Qxb2 21. Qe6+ Kd8 22. Bg5+ Kc8 23. Qe8+ Kc7 24. Qd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "45"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qd5 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 dxe3 11. Qxe3+ Nge7 12. Qf4 Bd7 13. Ne4 O-O-O 14. Nc3 Qa5 15. d4 Nb4 16. Bd3 Nxd3+ 17. cxd3 Nd5 18. Qg5 Rhe8+ 19. Kf1 Ne3+ 20. Qxe3 Rxe3 21. fxe3 Qg5 22. e4 Qe3 23. Ne2 Rf8+ 24. Ke1 Rf2 25. Kd1 Qxe2+ 26. Kc1 Qc2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "46"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nc6 9. Qh5+ g6 10. Qf3 Qe7 11. Be2 Bg7 12. O-O Nf6 13. Bd2 Ne4 14. Rfd1 Be6 15. Qf4 O-O-O 16. Be1 g5 17. Qf3 h5 18. Rac1 g4 19. Qf4 Bh6 20. Bb4 Nxb4 21. Qe5 Nc6 22. Qb5 a6 23. Qa4 Kb8 24. h3 g3 25. fxg3 Bxe3+ 26. Kh2 h4 27. Rb1 hxg3+ 28. Kh1 Rxh3+ 29. gxh3 g2+ 30. Kxg2 Qh4 31. Bf3 Qg3+ 32. Kf1 Qg1+ 33. Ke2 Ng3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "47"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. b7 Rb8 14. Bxd2 Rxb7 15. Bc6 Rb8 16. Nf3 e6 17. O-O Qb6 18. Rfe1 Qxb2 19. dxe6 fxe6 20. Qc4 e5 21. Qe6+ Be7 22. Bg5 d5 23. Qxe7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "48"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "49"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. d4 e6 4. Bf4 Bb4 5. a3 Bxc3+ 6. bxc3 c5 7. dxc5 Qa5 8. Qd4 Nc6 9. Qe3 O-O 10. Ne5 Nxe5 11. Bxe5 Ng4 12. Qg5 Nxe5 13. Qxe5 Bd7 14. Qd4 Rfc8 15. Rb1 Rxc5 16. Rxb7 Rxc3 17. Rxd7 Rxa3+ 18. Kd1 Ra1+ 19. Qxa1 Qxa1+ 20. Kd2 Qd4+ 21. Ke1 Qa1+ 22. Kd2 Qd4+ 23. Ke1 Qc3+ 24. Kd1 Rc8 25. Rxa7 Qxc2+ 26. Ke1 Qc1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "50"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qh5 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 dxe3 11. Qxe3+ Nge7 12. Ne6 Bxe6 13. Qxe6 Nd4 14. Qc4 O-O-O 15. Rd1 Qe5+ 16. Kd2 Qg5+ 17. Ke1 Qe5+ 18. Kd2 Qg5+ 19. Ke1 Nef5 20. Qc5 Rhe8+ 21. Be2 Rxe2+ 22. Kf1 Ne3+ 23. Kg1 Qxg2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "51"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. d4 c5 4. dxc5 Nc6 5. Bg5 d4 6. Bxf6 exf6 7. Ne4 Bf5 8. Nfd2 Qd5 9. c4 Qe5 10. f4 Qxf4 11. g3 Qe3 12. Nd6+ Bxd6 13. cxd6 O-O 14. Bg2 Nb4 15. Bxb7 Nd3+ 16. Kf1 Qf2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "52"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. d4 e6 4. Bf4 c5 5. e3 a6 6. Bd3 c4 7. Be2 b5 8. a4 b4 9. Bxb8 bxc3 10. Be5 cxb2 11. Rb1 Bb4+ 12. Kf1 Bc3 13. Kg1 Ne4 14. Bxg7 Rg8 15. Be5 f6 16. Bf4 Qa5 17. Bg3 Bd7 18. Bf4 Bxa4 19. Bg3 Kd7 20. Bf4 Qb6 21. Bg3 a5 22. Bf4 Qb4 23. Bg3 Kc6 24. Bf4 Bb5 25. Bg3 a4 26. Bf4 a3 27. Bg3 a2 28. Rxb2 Qxb2 29. Ne5+ fxe5 30. f3 a1=Q 31. fxe4 Qxc2 32. Qxa1 Rxa1+ 33. Bf1 Qe2 34. exd5+ exd5 35. Be1 Rxe1 36. dxe5 Rxf1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "53"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Nf3 Nd7 13. Nb5 Nf6 14. d6 cxd6 15. Nxd6+ Kd8 16. Ng5 Bg4 17. Qb3 Rg8 18. Ngxf7+ Kc7 19. Qxb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "54"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Nf3 Nd7 13. Nb5 Nf6 14. d6 cxd6 15. Nxd6+ Kd8 16. Ng5 Bg4 17. Qb3 Rg8 18. Ngxf7+ Kc7 19. Qxb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "55"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qg6 7. d3 Bb4+ 8. Bd2 Qxg5 9. Bxb4 Nc6 10. Qd2 Qg6 11. e4 dxe3 12. Qxe3+ Be6 13. Bc3 Nge7 14. Bxg7 Qxg7 15. Qxe6 Qxb2 16. Rd1 Nd4 17. Qf6 Nxc2+ 18. Kd2 Nd4+ 19. Ke1 Nc2+ 20. Kd2 Nd4+ 21. Ke1 O-O-O 22. Qxe7 Rhe8 23. Qxe8 Rxe8+ 24. Be2 Qxe2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "56"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. Bf4 c5 5. e3 a6 6. Bd3 c4 7. Be2 b5 8. a4 b4 9. Bxb8 bxc3 10. Be5 cxb2 11. Rb1 Bb4+ 12. Kf1 c3 13. Kg1 Bd7 14. Bxf6 gxf6 15. Bd3 a5 16. Bb5 Bxb5 17. axb5 a4 18. Qd3 a3 19. e4 a2 20. Rxb2 a1=Q+ 21. Rb1 Qxb1+ 22. Qf1 Ra1 23. Qxb1 Rxb1+ 24. Ne1 Rxe1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "57"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qf6 7. Ne4 Qg6 8. d3 Nf6 9. Bf4 Nxe4 10. dxe4 Nc6 11. Qd3 Bb4+ 12. c3 dxc3 13. bxc3 Qf6 14. Bxc7 Bxc3+ 15. Kd1 Bxa1 16. Bg3 Be6 17. Qb5 O-O-O+ 18. Kc1 Qc3+ 19. Kb1 Rd1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "58"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. d4 e6 4. Bf4 Bb4 5. a3 Bxc3+ 6. bxc3 c5 7. dxc5 Qa5 8. Qd4 Nc6 9. Qe3 Ng4 10. Qd3 e5 11. Be3 e4 12. Qxd5 Qxc3+ 13. Kd1 Qxa1+ 14. Bc1 Nxf2+ 15. Kd2 Be6 16. Bb2 Qd1+ 17. Ke3 Ng4+ 18. Kxe4 Qxd5+ 19. Kf4 Qxc5 20. Bxg7 Rg8 21. Bb2 Qe3+ 22. Kg3 Nge5+ 23. Kh4 Qh6# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "59"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Nf3 Nd7 13. Nb5 Nf6 14. d6 cxd6 15. Nxd6+ Kd8 16. Ng5 Bg4 17. Qb3 Rg8 18. Ngxf7+ Kc7 19. Qxb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "60"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Nf3 Nd7 13. Nb5 Nf6 14. d6 cxd6 15. Nxd6+ Kd8 16. Ng5 Bg4 17. Qb3 Rg8 18. Ngxf7+ Kc7 19. Qxb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "61"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. Bf4 c5 5. e3 a6 6. Bd3 c4 7. Be2 b5 8. a4 b4 9. Bxb8 bxc3 10. Be5 cxb2 11. Rb1 Bb4+ 12. Kf1 c3 13. Kg1 Bd7 14. Bxf6 gxf6 15. Bd3 Bxa4 16. e4 dxe4 17. Bxe4 Rb8 18. Qd3 Qd6 19. Bxh7 Bb5 20. Qe4 Bc4 21. Re1 Ba5 22. Rb1 Ba2 23. Rf1 b1=R 24. Rxb1 Rxb1+ 25. Ne1 Rxh7 26. h3 Bd5 27. Qe3 Rg7 28. Rh2 Rxe1+ 29. Qxe1 Qxh2+ 30. Kxh2 Rxg2+ 31. Kh1 Rg7+ 32. Kh2 Bc7+ 33. f4 Bxf4+ 34. Qg3 Rxg3 35. h4 Rg7+ 36. Kh3 Bg2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "62"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Nf3 Nd7 13. Nb5 Nf6 14. d6 cxd6 15. Nxd6+ Kd8 16. Ng5 Bg4 17. Qb3 Rg8 18. Ngxf7+ Kc7 19. Qxb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "63"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 e6 2. Nc3 d5 3. e4 d4 4. Bb5+ c6 5. Bc4 dxc3 6. dxc3 Qxd1+ 7. Kxd1 Nd7 8. Bf4 a5 9. Ne5 Nxe5 10. Bxe5 Nf6 11. Bxf6 gxf6 12. Kc1 Bd7 13. Kb1 a4 14. Re1 a3 15. bxa3 Bxa3 16. Rd1 Rg8 17. Rg1 O-O-O 18. Bd3 e5 19. c4 Be6 20. h4 Rd4 21. h5 Bxc4 22. Bxc4 Rxc4 23. c3 Rxc3 24. h6 Rd8 25. Re1 Rd4 26. Re3 Rb4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "64"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 Nf6 5. Bf4 Nbd7 6. e3 e5 7. e4 exf4 8. Nxd5 Bc5 9. Qd3 Nxd5 10. exd5 O-O 11. O-O-O Nf6 12. c4 a5 13. Kb1 Re8 14. h3 Bd7 15. Qf3 a4 16. Qxf4 Re4 17. Qf3 Rxd4 18. Bd3 Qb6 19. Rhe1 a3 20. Rd2 h6 21. Rde2 Ba4 22. Qf5 axb2 23. Rxb2 Qa5 24. Rbe2 Qb4+ 25. Ka1 Qc3+ 26. Kb1 Rxd3 27. Qf4 Qb4+ 28. Ka1 Bc2 29. Qc1 Bd4+ 30. Qb2 Bxb2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "65"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. b7 Rb8 13. Bb5+ Nd7 14. Bxd2 Rxb7 15. a4 e6 16. dxe6 fxe6 17. Qh3 e5 18. Qe6+ Qe7 19. Qd5 Rb8 20. Nh3 a6 21. Bg5 Qf7 22. Qxf7+ Kxf7 23. Bxd7 Rxb2 24. Bc6 Kg8 25. Bd5# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "66"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 e5 7. Bb5 Bd7 8. Bxc6 Bxc6 9. Nc3 f6 10. e4 O-O-O+ 11. Bd2 Bb4 12. Re1 Bxc3 13. bxc3 Nh6 14. Kc1 Ng4 15. Re2 Bb5 16. c4 Bxc4 17. Re1 Nxf2 18. Kb1 Bb5 19. Bc3 Rd1+ 20. Rxd1 Nxd1 21. Bd2 Nf2 22. a4 Bc6 23. Be3 Nxe4 24. Bxa7 Kd7 25. Be3 Nd6 26. a5 Ra8 27. h3 Nc4 28. Bc5 Rxa5 29. Rxa5 Nxa5 30. Bf8 g5 31. Bg7 Bxf3 32. gxf3 Ke6 33. Bf8 Nc4 34. Bc5 b6 35. Bb4 b5 36. Bc3 h5 37. Bb2 c6 38. Bc3 Kf5 39. Bb2 Kf4 40. Bc3 Kxf3 41. Bb2 Nxb2 42. Kxb2 e4 43. Kb1 e3 44. Kb2 e2 45. Kb1 e1=Q+ 46. Kb2 g4 47. hxg4 hxg4 48. Ka2 Qc3 49. Kb1 g3 50. Kc1 g2 51. Kb1 g1=Q+ 52. Ka2 Qga1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "67"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. b7 Rb8 14. Bxd2 Rxb7 15. a4 e6 16. dxe6 fxe6 17. Qh3 e5 18. Nf3 e4 19. Ng5 Qf6 20. Bc6 Qxb2 21. O-O Qxd2 22. Qe6+ Be7 23. Qf7+ Kd8 24. Ne6+ Kc8 25. Qxe7 Nb8 26. Qxb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "68"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Nf3 Nd7 13. Nb5 Nf6 14. d6 cxd6 15. Nxd6+ Kd8 16. Ng5 Bg4 17. Qb3 Rg8 18. Ngxf7+ Kc7 19. Qxb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "69"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Nf3 Nd7 13. Nb5 Nf6 14. d6 cxd6 15. Nxd6+ Kd8 16. Ng5 Bg4 17. Qb3 Rg8 18. Ngxf7+ Kc7 19. Qxb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "70"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "71"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Nf3 Nd7 13. Nb5 Nf6 14. d6 cxd6 15. Nxd6+ Kd8 16. Ng5 Bg4 17. Qb3 Rg8 18. Ngxf7+ Kc7 19. Qxb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "72"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. Qa4+ Bd7 11. Qf4 g5 12. Qe4 Bg7 13. O-O-O O-O 14. e6 fxe6 15. dxe6 Bxc3 16. e7 Bxb2+ 17. Kxb2 Rxf2+ 18. Kc1 Qc8 19. Nh3 Rf5 20. Bc4+ Kh8 21. Qxf5 Bxf5 22. Rd8+ Kg7 23. Rxc8 Bd7 24. Rg8+ Kh6 25. Rf1 b5 26. Rf6+ Kh5 27. Rxg5+ Kh4 28. Rh6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "73"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qg6 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 h6 10. Ne4 Nf6 11. Nxf6+ Qxf6 12. e4 O-O 13. Rd1 Kh8 14. c3 Nc6 15. cxd4 Nxd4 16. Rc1 Be6 17. Rxc7 Rac8 18. Rxb7 Rc1+ 19. Qxc1 Qxf2+ 20. Kd1 Bg4+ 21. Be2 Qxe2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "74"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 e5 7. Bb5 Nf6 8. Bxc6+ bxc6 9. Nxf6+ gxf6 10. e4 Rg8 11. Rg1 Rg4 12. Nd2 f5 13. h3 Rg6 14. Nc4 f6 15. exf5 Bxf5 16. h4 O-O-O+ 17. Bd2 Rg4 18. Ne3 Rgd4 19. Nxf5 Rxd2+ 20. Kc1 Rxf2 21. Ne3 Bh6 22. Re1 Bxe3+ 23. Rxe3 Rf1+ 24. Re1 Rxe1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "75"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. b4 Ne4 7. Qf3 f5 8. Qxf5 Na6 9. Qxe4 Nxb4 10. a3 Na6 11. Qc2 Nc5 12. Nc3 d6 13. e6 Rb8 14. Bd3 Nxd3+ 15. Qxd3 Ra8 16. Qf3 Rg8 17. Qf7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "76"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Be3 Kb8 13. Ne5 c5 14. Nf7 Rxd1+ 15. Rxd1 Rg8 16. f3 Nd6 17. Ng5 Nc4 18. Bxc5 Nxb2 19. Rd8+ Kb7 20. O-O e5 21. Rb1 Kc6 22. Bf2 Nc4 23. Rc1 Kb5 24. Rb8+ Nb6 25. Ne6 Ka6 26. Be1 Nd7 27. Nxc7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "77"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bb5 e6 11. O-O Bd6 12. Be3 O-O 13. Bxc6 bxc6 14. Rc1 c5 15. Nc3 Nxc3 16. Rxc3 e4 17. Nd2 Be5 18. Rxc5 Bd6 19. Rc2 Bf4 20. Bxf4 Rxf4 21. Re1 e5 22. Nxe4 Rc8 23. f3 Rff8 24. Rc5 Rfe8 25. b4 h6 26. a3 a6 27. Kf2 Re7 28. Rd1 Rce8 29. Ra5 Re6 30. Rc5 R6e7 31. Ke2 Rf7 32. h4 Rfe7 33. Rc6 Ra8 34. Rdc1 Ra7 35. R6c5 Rb7 36. g4 Ra7 37. Rc6 Rf7 38. h5 Re7 39. R1c3 Rf7 40. R3c5 Re7 41. Ra5 Re8 42. Rcxa6 Rxa6 43. Rxa6 Rd8 44. b5 Re8 45. a4 Rd8 46. a5 Re8 47. Nc3 Rd8 48. Rc6 Rc8 49. b6 Ra8 50. bxc7 Rc8 51. Ne4 Kh8 52. Nd6 Rg8 53. c8=Q Rxc8 54. Rxc8+ Kh7 55. a6 g6 56. Rc7+ Kg8 57. a7 gxh5 58. a8=Q# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "78"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Bd2 e4 13. Nd4 c5 14. Ne6 c4 15. Nxc7+ Kd8 16. Nxa8 e5 17. Nc3 Be7 18. O-O-O Kd7 19. Nc7 Kxc7 20. Nd5+ Kd8 21. Ba5+ Ke8 22. Nxe7 Kxe7 23. Bb4 Rd8 24. Rxd6 Rxd6 25. Rd1 Kf8 26. Rxd6 Kg8 27. Ra6 h6 28. Rxa7 h5 29. a4 h4 30. a5 Kh8 31. Rc7 Kg8 32. a6 h3 33. gxh3 Kh8 34. a7 g5 35. a8=Q# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "79"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "80"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 f5 7. Nc5 e5 8. Nd3 e4 9. Nfe5 exd3 10. Nxc6 dxc2+ 11. Kd2 bxc6 12. Bc4 Bd6 13. Bd3 Nf6 14. Kxc2 Be6 15. Kb1 O-O 16. Bd2 Ng4 17. f4 Nf2 18. Bxf5 Bxf5+ 19. e4 Bxe4+ 20. Kc1 Nxh1 21. g3 Nf2 22. Be3 Nd3+ 23. Kb1 Rab8 24. Bd4 Nxf4+ 25. Kc1 Ne2+ 26. Kd2 Nxd4 27. Ke3 Rf3+ 28. Kxe4 Bc5 29. Ke5 Re8# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "81"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. d5 Ne5 4. e4 Nxe4 5. Qd4 Nxf2 6. Qxf2 Ng4 7. Qg3 d6 8. Be2 Ne5 9. Nf3 Nxf3+ 10. Bxf3 e5 11. dxe6 Qe7 12. O-O Qxe6 13. Re1 Rb8 14. Nc3 Rg8 15. Bg5 Be7 16. Nd5 Bxg5 17. Qxg5 Kf8 18. Qd8+ Qe8 19. Rxe8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "82"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Bd2 e4 13. Nd4 c5 14. Ne6 c4 15. Nxc7+ Kd8 16. Nxa8 e5 17. Ne3 Be7 18. Bc3 Kd7 19. Nc7 Kxc7 20. Bxe5 Kb8 21. Rd1 Rd8 22. Nxc4 Kc7 23. Ne3 Bf6 24. Bxf6 gxf6 25. O-O Kb8 26. Nf5 Nf7 27. Rxd8+ Nxd8 28. f4 Ne6 29. g4 Nc5 30. Re1 a6 31. Ng3 Nd3 32. Rxe4 Nxb2 33. Rb4+ Ka8 34. Rxb2 Ka7 35. Ne4 Ka8 36. Nxf6 h6 37. g5 hxg5 38. fxg5 Ka7 39. g6 Ka8 40. g7 Ka7 41. g8=Q a5 42. Qb8+ Ka6 43. Qb6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "83"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nc6 9. Qh5+ g6 10. Qf3 Nf6 11. Be2 Bg7 12. O-O Qe7 13. Bd2 Ne4 14. Rfd1 Be6 15. Qf4 O-O-O 16. Be1 g5 17. Qf3 h5 18. Rac1 g4 19. Qf4 Bh6 20. Bb4 Nxb4 21. Qe5 Nc6 22. Qb5 a6 23. Qa4 Bd7 24. Qc4 Be6 25. Qa4 Kb8 26. h3 g3 27. fxg3 Bxe3+ 28. Kh2 h4 29. Rb1 hxg3+ 30. Kh1 Rxh3+ 31. gxh3 g2+ 32. Kxg2 Qh4 33. Bf3 Qg3+ 34. Kf1 Qg1+ 35. Ke2 Ng3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "84"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. Nf3 Nc6 3. c4 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Ke2 Kb8 13. Nc3 Nxc3+ 14. bxc3 c5 15. Be3 c4 16. Rad1 Rxd1 17. Rxd1 Rg8 18. Ng5 e5 19. Rd8+ Kb7 20. Ne6 e4 21. Rxf8 Rxf8 22. Nxf8 h6 23. h4 e5 24. Kd2 Kb8 25. h5 a6 26. Ne6 a5 27. Nxg7 a4 28. Bxh6 a3 29. Ke3 Ka8 30. Kxe4 Kb8 31. Nf5 Ka8 32. g4 Kb8 33. g5 Ka8 34. g6 Kb8 35. Kxe5 Ka8 36. Be3 Kb8 37. g7 Ka8 38. g8=Q+ Kb7 39. Bc5 c6 40. Nd6+ Kc7 41. Qc8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "85"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 Nf6 7. Bd3 Nb4 8. Ne5 Nxd3 9. Nxf6+ gxf6 10. Nxd3 Rg8 11. Nf4 Bf5 12. Nd5 O-O-O 13. e4 Bxe4 14. c4 Bxg2 15. Rg1 Bf3+ 16. Kd2 Rxg1 17. Kc2 Be4+ 18. Kd2 e6 19. f3 Bg6 20. f4 Bb4+ 21. Ke2 exd5 22. cxd5 Re8+ 23. Kf2 Bc5+ 24. Be3 Bxe3+ 25. Ke2 Bc5+ 26. Kf3 Bh5# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "86"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qe7 5. f4 f6 6. Nxf6+ gxf6 7. Nc4 Nc6 8. e3 Be6 9. Bd3 O-O-O 10. Qe2 Nb4 11. exd4 Nxd3+ 12. cxd3 Qd7 13. Na5 Nh6 14. Qe4 Bd5 15. Qe2 Re8 16. Qxe8+ Qxe8+ 17. Kf1 Bxg2+ 18. Kxg2 Qe2+ 19. Kg3 Nf5+ 20. Kh3 Qf3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "87"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. b7 Rb8 14. Bxd2 Rxb7 15. a4 e6 16. dxe6 fxe6 17. Nh3 e5 18. Qf3 Qb6 19. Ng5 a6 20. Qf7+ Kd8 21. Ne6+ Kc8 22. Qe8+ Qd8 23. Qxd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "88"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nc6 9. Qh5+ g6 10. Qf3 Nf6 11. Be2 Bg7 12. O-O Qe7 13. Bd2 Ne4 14. Rfd1 Bd7 15. Qf4 O-O-O 16. Bf3 g5 17. Bb4 Nxb4 18. Bxe4 gxf4 19. Nxb4 Qxb4 20. Rxd7 Kxd7 21. Bxf5+ Ke7 22. exf4 Bxb2 23. Rb1 Be5 24. c4 Qxb1+ 25. Bxb1 Rd1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "89"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Be3 Kb8 13. Ne5 c5 14. Nf7 Rxd1+ 15. Rxd1 Rg8 16. Nd8 e5 17. Ne6 c4 18. Rd7 c3 19. bxc3 Nxc3 20. Kd2 Ne4+ 21. Kc2 Rh8 22. Rb1+ Kc8 23. Rxc7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "90"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 Nf6 5. Bf4 Nbd7 6. e3 e5 7. e4 exf4 8. Nxd5 Nxd5 9. exd5 Bd6 10. Nf5 Be5 11. Nd4 Qb6 12. Nf5 g6 13. Nh6 Qb4+ 14. Qd2 Qxb2 15. Rd1 Bc3 16. Bc4 Bxd2+ 17. Kxd2 Qb4+ 18. Kd3 Nc5+ 19. Kd4 Qb2+ 20. c3 Qxf2+ 21. Ke5 Nd7+ 22. Kd6 Qc5# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "91"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 Nf6 7. Bd3 Nb4 8. Ne5 Nxd3 9. Nxf6+ gxf6 10. Nxd3 Rg8 11. Nf4 Bf5 12. Nd5 O-O-O 13. e4 Bxe4 14. c4 e6 15. f3 Bxd5 16. cxd5 Rxg2 17. Bf4 Rxd5+ 18. Kc1 Rf5 19. Be3 Bc5 20. Bxc5 Rxc5+ 21. Kb1 Rcc2 22. f4 Rxb2+ 23. Kc1 Rgc2+ 24. Kd1 Rxh2 25. Rxh2 Rxh2 26. Kc1 h5 27. Kb1 Kd7 28. a3 h4 29. Ra2 Rxa2 30. Kxa2 Kd6 31. Kb1 c5 32. a4 h3 33. a5 Kd5 34. Kb2 c4 35. Kb1 Ke4 36. a6 bxa6 37. Kb2 Kd5 38. Kb1 h2 39. f5 h1=Q+ 40. Kb2 Qh2+ 41. Kb1 exf5 42. Ka1 c3 43. Kb1 Qb2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "92"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. Bf4 c5 5. e3 c4 6. b3 Bb4 7. Qd2 Qa5 8. Bxb8 Bxc3 9. Bd6 Ne4 10. b4 Qa3 11. Qxc3 Qxc3+ 12. Ke2 Qxc2+ 13. Ke1 Qc3+ 14. Ke2 Qb2+ 15. Nd2 Qxd2+ 16. Kf3 Qxf2+ 17. Kg4 h5+ 18. Kh3 Ng5# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "93"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Be3 Kb8 13. Ne5 c5 14. Nf7 Rxd1+ 15. Rxd1 Rg8 16. Nd8 e5 17. Ne6 c4 18. Rd8+ Kb7 19. O-O c3 20. bxc3 Nxc3 21. Kh1 Nxa2 22. Rb1+ Nb4 23. Rxb4+ Ka6 24. Rdb8 Ka5 25. R8b5+ Ka6 26. Nc5# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "94"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 Be6 6. Nxe5 d4 7. Nb5 Qa5+ 8. Qd2 Qxb5 9. Qxd4 Nc6 10. Nxc6 Qxc6 11. Qc3 Qxc3+ 12. bxc3 Bc5 13. Be3 Bxe3 14. fxe3 Nf6 15. Rb1 O-O 16. Rxb7 a5 17. a3 Rfb8 18. Rxb8+ Rxb8 19. Rg1 Ne4 20. Rh1 Rb1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "95"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 f5 7. Nc5 e5 8. Nd3 e4 9. Nfe5 exd3 10. Nxc6 dxc2+ 11. Kd2 bxc6 12. Bc4 Bd6 13. Bd3 Ne7 14. Bc4 Nd5 15. Bxd5 cxd5 16. Kd3 O-O 17. Bd2 f4 18. Kxc2 Bf5+ 19. Kc1 Rae8 20. exf4 Re2 21. Be3 d4 22. Bxd4 Bxf4+ 23. Kd1 Rd2+ 24. Ke1 Rxd4 25. Kf1 Bh6 26. Kg1 c6 27. Re1 Bd2 28. Re7 Bb4 29. Re5 Rd1+ 30. Re1 Rxe1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "96"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Be3 Kb8 13. O-O Rd3 14. Nc3 Nxc3 15. bxc3 Rxc3 16. Rab1+ Ka8 17. Rfd1 Rc2 18. Rd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "97"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 exd4 9. Qxd4 Nc6 10. Qe4+ Be6 11. e3 Bxc3+ 12. Ke2 Bxa1 13. Bf4 O-O-O 14. a4 Bg4+ 15. Qf3 Qd2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "98"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Bd2 e4 13. Nd4 c5 14. Ne6 c4 15. Nxc7+ Kd8 16. Nxa8 e5 17. Ne3 Be7 18. Rd1 Kd7 19. Bc3 Rxa8 20. Bxe5 Rc8 21. Bxg7 Rg8 22. Be5 Rc8 23. Nf5 Rc6 24. Bc3 Ke8 25. Nxd6+ Bxd6 26. O-O Kf8 27. Rfe1 Kg8 28. Rxe4 h6 29. Rg4+ Kh7 30. Rg7+ Kh8 31. Rc7+ Be5 32. Rd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "99"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Be3 Kb8 13. Rc1 Rd6 14. Ne5 Kb7 15. Rc4 Nf6 16. Rb4+ Ka8 17. Ra4 c5 18. Nf7 Rg8 19. Bxc5 Rd7 20. O-O c6 21. Ne3 Kb8 22. Ne5 Rc7 23. Bxa7+ Rxa7 24. Nxc6+ Ka8 25. Rxa7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "100"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qh5 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 h6 11. Nf3 Bg4 12. Qf4 Bxf3 13. Qxf3 Qxf3 14. gxf3 Nge7 15. Bg2 Ng6 16. O-O Nf4 17. Rfe1 Ne5 18. Rad1 O-O 19. Bh1 Rf6 20. a3 Rc6 21. Rd2 Rg6+ 22. Kf1 Rf8 23. Rdd1 Rg5 24. h4 Rh5 25. Bg2 Rxh4 26. Kg1 Rf6 27. Bh1 Rg6+ 28. Bg2 Rxg2+ 29. Kf1 Rh1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "101"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 Bxc3+ 9. Bd2 exd4 10. Bxc3 Qxc3+ 11. Qd2 Qxa1+ 12. Qd1 Qxd1+ 13. Kxd1 Be6 14. e3 dxe3 15. fxe3 Nc6 16. a3 O-O-O+ 17. Bd3 Nf6 18. Kc1 Ne5 19. Rd1 Kc7 20. Kb1 Nd5 21. e4 Nc3+ 22. Kc1 Nxd1 23. Kxd1 Nxd3 24. cxd3 Rxd3+ 25. Kc1 Rxa3 26. Kb2 Ra2+ 27. Kb1 Rd8 28. Kc1 Bb3 29. Kb1 Rd1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "102"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Nf3 d6 7. b4 Ncd7 8. e6 fxe6 9. Ng5 exd5 10. Ne6 Nc6 11. cxd5 Nxb4 12. Nxd8 Kxd8 13. Be2 Ne5 14. O-O e6 15. dxe6 Bxe6 16. Bb2 Nc4 17. Bc3 Nc6 18. Bxc4 Bxc4 19. Re1 d5 20. Nd2 Bd3 21. Qb3 Bd6 22. Qxd5 Bg6 23. Bxg7 Re8 24. Rxe8+ Kxe8 25. Re1+ Kd8 26. Bf6+ Kc8 27. Qe6+ Kb8 28. Qe8+ Bxe8 29. Rxe8+ Nd8 30. Rxd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "103"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 c5 4. dxc5 Nc6 5. Bg5 d4 6. Bxf6 exf6 7. Ne4 Bf5 8. Nfd2 Qd5 9. c4 Qe5 10. f4 Qxf4 11. g3 Qe3 12. Nd6+ Bxd6 13. cxd6 O-O 14. Bg2 Nb4 15. Bxb7 Nd3+ 16. Kf1 Qf2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "104"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nf3 Nc6 4. c4 Nf4 5. d4 Ne6 6. d5 Rg8 7. Nc3 Rh8 8. dxe6 dxe6 9. Qxd8+ Kxd8 10. Be2 f6 11. h4 fxe5 12. Ng5 h6 13. Nf7+ Ke8 14. Nxh8 Bd7 15. Bh5+ Kd8 16. Bg6 Kc8 17. Be3 Kb8 18. O-O Nd4 19. Rfd1 c5 20. a4 Nb3 21. Rxd7 Nxa1 22. Rd8+ Kc7 23. Rxa8 Nb3 24. Nf7 Na5 25. Nb5+ Kb6 26. b4 Nxc4 27. Bxc5+ Ka6 28. Rxa7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "105"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Nf3 d6 7. b4 Ncd7 8. e6 fxe6 9. Ng5 exd5 10. Ne6 Nc6 11. cxd5 Nxb4 12. Nxd8 Kxd8 13. Be2 Ne5 14. O-O e6 15. dxe6 Bxe6 16. Nc3 d5 17. Nb5 Bc5 18. Bf4 Nbc6 19. Qc1 Bb6 20. Bxe5 Nxe5 21. Qg5+ Kc8 22. Qxe5 Re8 23. Rac1 Re7 24. Qd6 Re8 25. Rxc7+ Bxc7 26. Qxc7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "106"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. d5 Ne5 4. e4 Nxe4 5. Qd4 Nxf2 6. Qxf2 Ng4 7. Qg3 d6 8. Be2 Ne5 9. Nf3 Nxf3+ 10. Bxf3 e5 11. dxe6 Qe7 12. O-O Qxe6 13. Re1 Rb8 14. Rxe6+ Bxe6 15. Nc3 Bxc4 16. Bd2 Be6 17. Nd5 Bxd5 18. Bxd5 Rg8 19. Re1+ Be7 20. Qe3 Rf8 21. Qxe7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "107"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Be3 Kb8 13. Ne5 c5 14. Nf7 Rxd1+ 15. Rxd1 Rg8 16. f3 Nd6 17. Ng5 Nc4 18. Bxc5 Nxb2 19. Rd8+ Kb7 20. O-O e5 21. Rb1 Kc6 22. Ne6 Nc4 23. Rc1 Kb5 24. Bxa7 Ka6 25. Bf2 Nd6 26. Rb8 e4 27. Nxc7+ Ka5 28. Ra8+ Kb4 29. Bc5# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "108"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nc6 9. Qh5+ g6 10. Qf3 Nf6 11. Be2 Qe7 12. O-O Bg7 13. Bd2 Ne4 14. Rfd1 Be6 15. Qf4 O-O-O 16. Be1 Kb8 17. Bf3 Bc8 18. Rac1 g5 19. Bb4 Nxb4 20. Bxe4 gxf4 21. Nxb4 fxe4 22. Nd5 Qe5 23. exf4 Qxd5 24. Rxd5 Rxd5 25. Re1 Rd2 26. Rxe4 Rd1+ 27. Re1 Rxe1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "109"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. Bf4 Bb4 5. a3 Bxc3+ 6. bxc3 c5 7. dxc5 Qa5 8. Qd4 Nc6 9. Qe3 O-O 10. Ne5 Nxe5 11. Bxe5 Ng4 12. Qg5 Nxe5 13. Qxe5 Bd7 14. Qd4 Rfc8 15. Rb1 Rxc5 16. Rxb7 Rxc3 17. Rxd7 Rxa3+ 18. Kd1 Ra1+ 19. Qxa1 Qxa1+ 20. Kd2 Qd4+ 21. Ke1 Qc3+ 22. Kd1 Rc8 23. Rxa7 Qxc2+ 24. Ke1 Qc1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "110"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Be3 Kb8 13. Rc1 Rd6 14. Ne5 Kb7 15. h4 Rg8 16. Rc4 Nf6 17. Rb4+ Ka8 18. Ra4 c5 19. Bxc5 Rd8 20. Nc6 Re8 21. Rxa7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "111"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. d5 Ne5 4. e4 Nxe4 5. Qd4 Nxf2 6. Qxf2 Ng4 7. Qg3 d6 8. Be2 Ne5 9. Nf3 Nxf3+ 10. Bxf3 e5 11. dxe6 Qe7 12. O-O Qxe6 13. Re1 Rb8 14. Nc3 Rg8 15. Bg5 Be7 16. Nd5 Bxg5 17. Qxg5 Kf8 18. Qd8+ Qe8 19. Rxe8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "112"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. d5 Ne5 4. e4 Nxe4 5. Qd4 Nxf2 6. Qxf2 Ng4 7. Qg3 d6 8. Be2 Ne5 9. Nf3 Nxf3+ 10. Bxf3 e5 11. dxe6 Qe7 12. O-O Qxe6 13. Re1 Rb8 14. Nc3 Rg8 15. Bg5 Be7 16. Nd5 Bxg5 17. Qxg5 Kf8 18. Qd8+ Qe8 19. Rxe8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "113"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. d5 Nb4 6. Qa4+ c6 7. Qxb4 cxd5 8. Qb5+ Qd7 9. Ne5 Qxb5 10. Nxb5 Be6 11. Nc7+ Kd8 12. Nxa8 Kc8 13. g3 Kb8 14. Nc7 Kxc7 15. Bg2 Kb8 16. Nf3 Ne4 17. Bf4+ Nd6 18. Ng5 h6 19. Nxe6 fxe6 20. Be5 Rg8 21. Bh3 c3 22. Bxe6 cxb2 23. Bxb2 Rh8 24. Be5 a6 25. O-O d4 26. Rab1 Rh7 27. Rfc1 Rh8 28. Rc8+ Ka7 29. Bd5 Nxc8 30. Rxb7+ Ka8 31. Rd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "114"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nc6 9. Qh5+ g6 10. Qf3 Nf6 11. Be2 Bg7 12. O-O Qe7 13. Bd2 Ne4 14. Rfd1 Be6 15. Qf4 O-O-O 16. Be1 g5 17. Qf3 h5 18. Rac1 g4 19. Qf4 Bh6 20. Bb4 Nxb4 21. Qe5 Nc6 22. Qb5 a6 23. Qa4 Kb8 24. h3 g3 25. fxg3 Bxe3+ 26. Kh2 h4 27. Rb1 hxg3+ 28. Kh1 f4 29. Qxe4 Bxh3 30. Qxe7 Bg4+ 31. Qh7 Rxh7# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "115"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Bd2 e4 13. Ne5 c5 14. Rc1 Nb7 15. Nc3 Nd6 16. Nd5 e6 17. Nxc7+ Kd8 18. Nxa8 Nf5 19. Nf7+ Kc8 20. Nxh8 Kb8 21. Nf7 Kxa8 22. Ng5 Nh4 23. Nxe6 Nxg2+ 24. Kf1 e3 25. fxe3 Nxe3+ 26. Bxe3 Bd6 27. Bxc5 Be5 28. Bd4 Bxd4 29. Nxd4 Kb8 30. Ne6 g6 31. Rc7 h6 32. Kf2 g5 33. Rd1 g4 34. Rd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "116"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nf3 Nc6 4. d4 d6 5. c4 Nb6 6. e6 Bxe6 7. d5 Qd7 8. dxe6 Qxe6+ 9. Be2 Nxc4 10. Nc3 O-O-O 11. Ng5 Qe5 12. Nxf7 Nxb2 13. Bxb2 Qf6 14. Nxd8 Kxd8 15. O-O e5 16. Ne4 Qe6 17. Nc5 Qc8 18. Bc4 Be7 19. Be6 Qb8 20. Bh3 Ke8 21. Ne6 Bf6 22. f4 Rg8 23. fxe5 dxe5 24. Qh5+ Ke7 25. Ba3+ Kd7 26. Rad1+ Kc8 27. Ng5# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "117"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qh5 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 dxe3 11. Qxe3+ Nge7 12. Ne6 Bxe6 13. Qxe6 Nd4 14. Qc4 O-O-O 15. Rd1 Rhe8 16. Qc3 Nef5+ 17. Kd2 Qg5+ 18. f4 Qxf4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "118"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 Nf6 5. Bf4 Nbd7 6. e3 e5 7. e4 exf4 8. Nxd5 Nxd5 9. exd5 Be7 10. Qg4 O-O 11. Qxf4 Bg5 12. Qd6 Re8+ 13. Be2 Bf6 14. Rd1 Qa5+ 15. Kf1 Bxd4 16. Rxd4 Qxa2 17. Rb4 Qb1+ 18. Bd1 Qxd1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "119"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 Nf6 5. Bf4 Nbd7 6. e3 e5 7. e4 dxe4 8. Bg3 exd4 9. Qxd4 Bc5 10. Qc4 Qe7 11. Nd5 Nxd5 12. Qxd5 O-O 13. Bc4 Nb6 14. Bd6 Bxd6 15. Qd4 Bc5 16. Qc3 Bb4 17. Bxf7+ Rxf7 18. O-O Bxc3 19. bxc3 Qg5 20. Rfe1 Bh3 21. g3 Qf5 22. Re2 Qf3 23. Rxe4 Qg2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "120"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 Bxc3+ 9. Bd2 exd4 10. Bxc3 Qxc3+ 11. Qd2 Qxa1+ 12. Qd1 Qc3+ 13. Qd2 Qa1+ 14. Qd1 Qxd1+ 15. Kxd1 Nc6 16. e4 dxe3 17. fxe3 Be6 18. a3 Nf6 19. Bb5 O-O-O+ 20. Kc1 Ne5 21. Kb1 Ne4 22. Re1 Nc3+ 23. Kb2 Nxb5 24. e4 Rd2 25. Rg1 Nd3+ 26. Kb1 Nxa3+ 27. Ka1 Rxc2 28. Rh1 Ra2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "121"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. d4 e6 4. Bf4 c5 5. e3 a6 6. Bd3 c4 7. Be2 b5 8. a4 b4 9. Bxb8 bxc3 10. Be5 cxb2 11. Rb1 Bb4+ 12. Kf1 c3 13. Kg1 Bd7 14. Bxf6 gxf6 15. Bd3 Bxa4 16. e4 dxe4 17. Bxe4 Rb8 18. Qd3 Qd6 19. Bxh7 Bb5 20. Qe4 Bc4 21. Re1 Ba5 22. Rb1 Ba2 23. Rf1 b1=Q 24. Rxb1 Rxb1+ 25. Ne1 Bd5 26. Qe3 Rxh7 27. h3 Bb6 28. Qxc3 Rg7 29. Qc8+ Ke7 30. Qc3 Bxd4 31. Qd2 Qg3 32. Rh2 Qxf2+ 33. Kh1 Qf1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "122"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qe7 5. f4 f6 6. Nxf6+ gxf6 7. Nc4 Nc6 8. e3 Be6 9. Bd3 O-O-O 10. Qe2 Nb4 11. exd4 Bxc4 12. Bxc4 Nxc2+ 13. Kf2 Nxa1 14. Qg4+ Kb8 15. Bxg8 Qd6 16. d5 f5 17. Qg5 Rxg8 18. Qxg8 Qxf4+ 19. Kg1 Bc5+ 20. d4 Bxd4+ 21. Be3 Bxe3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "123"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "124"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qg6 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 dxe3 11. Qxe3+ Nge7 12. Ne4 Nf5 13. Qf4 Be6 14. Qxc7 O-O 15. Qxb7 Ncd4 16. Qc7 Rac8 17. Qxa7 Nxc2+ 18. Ke2 Nxa1 19. d4 Rc2+ 20. Ke1 Rc1+ 21. Kd2 Qh6+ 22. Ke2 Ng3+ 23. Kd3 Bc4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "125"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Qa4+ Bd7 13. Qb3 Bc8 14. Nf3 Nd7 15. Nb5 Nf6 16. d6 cxd6 17. Nxd6+ Kd8 18. O-O-O Nd7 19. Nxc8 Kxc8 20. Bh3 f5 21. Bxf5 Kb8 22. Rxd7 Qe8 23. Qxb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "126"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 Bf5 7. Nc5 e5 8. Nxb7 Bc8 9. Ba6 Nb4 10. Bb5+ c6 11. Bc4 Bxb7 12. Nxe5 Nh6 13. e4 O-O-O+ 14. Bd2 Bd6 15. Nxf7 Nxf7 16. Bxf7 Bf4 17. Be6+ Kb8 18. Bd5 Bxd2 19. Be6 Rhe8 20. Bf5 g6 21. Bg4 Rxe4 22. h3 Bh6+ 23. Bd7 Rxd7# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "127"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. d4 e6 4. Bf4 c5 5. e3 a6 6. Bd3 c4 7. Be2 b5 8. a4 b4 9. Bxb8 bxc3 10. Be5 cxb2 11. Rb1 Qa5+ 12. Kf1 c3 13. Bxf6 gxf6 14. Qd3 Bd7 15. Kg1 Bxa4 16. e4 Bb5 17. Qe3 Qa2 18. Bxb5+ axb5 19. Qe1 Qxb1 20. Qxb1 Ra1 21. Nd2 cxd2 22. Qf1 Rxf1+ 23. Kxf1 d1=Q# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "128"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. Bf4 a6 5. e3 c5 6. Bd3 c4 7. Be2 b5 8. a4 b4 9. Bxb8 bxc3 10. Be5 cxb2 11. Rb1 Qa5+ 12. Kf1 c3 13. Bxf6 gxf6 14. Qd3 Bd7 15. Kg1 Bxa4 16. e4 Bb5 17. Qe3 Qa2 18. Bxb5+ axb5 19. Qe1 Qxb1 20. Qxb1 Ra1 21. Nd2 cxd2 22. Qf1 Rxf1+ 23. Kxf1 d1=Q# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "129"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 Bxc3+ 9. Bd2 exd4 10. Bxc3 Qxc3+ 11. Qd2 Qxa1+ 12. Qd1 Qxd1+ 13. Kxd1 Be6 14. e3 dxe3 15. fxe3 Nf6 16. Bb5+ Nc6 17. Bxc6+ bxc6 18. a3 Ne4 19. Kc1 Rb8 20. Re1 Ke7 21. Rd1 Nc3 22. Re1 Rhd8 23. Re2 Nxe2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "130"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 exd4 9. Qxd4 Nc6 10. Qe4+ Be6 11. e3 Bxc3+ 12. Ke2 Qxg5 13. h4 Qa5 14. Rb1 Nf6 15. Qd3 Rd8 16. Rb5 Rxd3 17. Rxa5 Rd2+ 18. Ke1 Rxc2+ 19. Kd1 Rd2+ 20. Kc1 Nxa5 21. Bb5+ Ke7 22. Kb1 Bxa2+ 23. Kc1 Nb3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "131"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Be3 Kb8 13. Nc3 Nxc3 14. bxc3 Rd3 15. Rb1+ Ka8 16. Nd4 Rxc3 17. Nxe6 Rc2 18. Nxc7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "132"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "133"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 exd4 9. Qxd4 Bxc3+ 10. Bd2 Bxd4 11. Bxa5 Bxa1 12. e4 Nc6 13. Bb5 Bd7 14. O-O Nxa5 15. Bxd7+ Kxd7 16. Rd1+ Ke6 17. Rxa1 Rc8 18. Rc1 Nf6 19. f3 Rhd8 20. h3 Rd2 21. e5 Nd5 22. f4 Nxf4 23. g3 Ne2+ 24. Kh2 Nxc1+ 25. Kg1 Rcxc2 26. Kh1 Rd1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "134"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Qa4+ Bd7 13. Qb3 Bc8 14. Nf3 Nd7 15. O-O-O Rg8 16. Nb5 Kd8 17. d6 cxd6 18. exd6 Qf6 19. Ng5 Ne5 20. h4 Nc6 21. Nxf7+ Ke8 22. Nc7+ Kd7 23. Bh3+ Qf5 24. Bxf5# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "135"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 exf3 7. Qxf3 Nc6 8. exd4 Qxd4 9. Qh5+ Kd8 10. c3 Qe4+ 11. Qe2 Bd6 12. Qxe4 fxe4 13. Nb4 Nxb4 14. cxb4 Nf6 15. b5 Re8 16. Bc4 a6 17. O-O axb5 18. Bxb5 c6 19. Bc4 b5 20. Bf7 Rf8 21. Bb3 Bf5 22. Re1 Kc7 23. f3 exf3 24. gxf3 Bd3 25. Re3 Bc5 26. f4 Rfd8 27. Be6 b4 28. f5 Ng4 29. h3 Nxe3 30. dxe3 Be4 31. a3 Rd1+ 32. Kf2 Rh1 33. f6 gxf6 34. Ke2 Rh2+ 35. Kf1 Bd6 36. Kg1 Bg3 37. Kf1 Bf3 38. Bg8 Rh1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "136"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. f4 e6 11. fxe5 exd5 12. b3 d4 13. Qg3 d6 14. Bxc4 Bxc4 15. bxc4 Qxb6 16. Nh3 dxe5 17. Qxe5+ Qe6 18. Qxe6+ fxe6 19. Bf4 O-O-O 20. Nd2 Bd6 21. O-O e5 22. Bg5 Rde8 23. Ne4 Re6 24. Rf7 h6 25. Bh4 g5 26. Bg3 Be7 27. Re1 Rf8 28. Rh7 Kb8 29. Nhf2 Re8 30. a4 Rd8 31. Nd3 Bf6 32. Nxf6 Rxf6 33. Bxe5+ Rdd6 34. Bxd6+ Rxd6 35. Re8+ Rd8 36. Rxd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "137"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "138"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Nf3 d6 7. b4 Ncd7 8. e6 fxe6 9. Ng5 exd5 10. Ne6 Nc6 11. Nxd8 Kxd8 12. cxd5 Nxb4 13. Bb5 c6 14. dxc6 bxc6 15. a3 cxb5 16. axb4 e5 17. Qf3 d5 18. Qxd5 Bxb4+ 19. Bd2 Bxd2+ 20. Nxd2 Rb8 21. O-O Bb7 22. Qd6 Ra8 23. Rfd1 Kc8 24. Rac1+ Kd8 25. Ne4 Bxe4 26. Qxd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "139"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. Nf3 Nc6 3. d5 Nb4 4. a3 Nbxd5 5. c4 Nb6 6. c5 Nbd5 7. e4 e6 8. exd5 Nxd5 9. Bc4 Bxc5 10. Bxd5 exd5 11. O-O c6 12. Re1+ Kf8 13. b4 Qf6 14. bxc5 Qxa1 15. Qe2 Qxb1 16. Qe8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "140"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 f5 7. Nc5 e5 8. Nd3 e4 9. Nfe5 exd3 10. Nxc6 dxc2+ 11. Kd2 bxc6 12. Bc4 Nf6 13. Kxc2 Bd6 14. Kb1 Ke7 15. Bd2 Be6 16. Bxe6 Kxe6 17. Bc3 a5 18. Bxf6 Kxf6 19. Rc1 c5 20. Rc4 Bxh2 21. Rxc5 Bd6 22. Rd5 Ke6 23. Rb5 Rhb8 24. Rxb8 Rxb8 25. a3 Be5 26. Ra2 a4 27. f4 Bf6 28. Ka1 Kd5 29. Kb1 Ke4 30. Ka1 Rd8 31. Kb1 Kxe3 32. g3 Rd1+ 33. Kc2 Rd2+ 34. Kb1 Kd3 35. Kc1 Rh2 36. Ra1 Rh1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "141"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Qa4+ Bd7 13. Qb3 Bc8 14. Nf3 Nd7 15. Nb5 Nf6 16. d6 cxd6 17. Nxd6+ Kd8 18. O-O-O Nd7 19. Nxc8 Kxc8 20. Bh3 f5 21. exf6 Qxf6 22. Rxd7 Kb8 23. Qxb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "142"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Qa4+ Bd7 13. Qb3 Bc8 14. Nf3 Nd7 15. Nb5 Nf6 16. d6 cxd6 17. Nxd6+ Kd8 18. O-O-O Nd7 19. Nxc8 Kxc8 20. Bh3 f5 21. exf6 Qxf6 22. Rxd7 Kb8 23. Qxb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "143"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "144"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Bd2 e4 13. Nd4 c5 14. Ne6 c4 15. Nxc7+ Kd8 16. Nxa8 e5 17. Ne3 Be7 18. Bc3 Kd7 19. Rd1 Rxa8 20. Bxe5 Rc8 21. Bxg7 Rg8 22. Bc3 Kc8 23. a4 Kb8 24. O-O Re8 25. g4 Rd8 26. Rd5 Re8 27. Be5 Rd8 28. Nf5 Rg8 29. Nxe7 Rxg4+ 30. Kh1 c3 31. Bxd6+ Ka8 32. bxc3 Kb7 33. Rb1+ Ka8 34. Rb8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "145"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Qa4+ Bd7 13. Qb3 Bc8 14. O-O-O Nd7 15. Nb5 c6 16. Nc7+ Kd8 17. d6 Qe8 18. Nxe8 Kxe8 19. e6 fxe6 20. Qxe6+ Kd8 21. Nf3 Nf6 22. d7 Bxd7 23. Ne5 Rc8 24. Rxd7+ Nxd7 25. Qxd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "146"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Qa4+ Bd7 13. Qb3 Bc8 14. Nf3 Nd7 15. O-O-O Rg8 16. Nb5 Kd8 17. d6 cxd6 18. exd6 Qf6 19. Ng5 Ne5 20. h4 Nc6 21. Nxf7+ Ke8 22. Nc7+ Kd7 23. Bh3+ Qf5 24. Bxf5# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "147"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 e5 7. Bb5 f6 8. Bxc6+ bxc6 9. Bd2 a5 10. Bc3 Ne7 11. Kc1 Nd5 12. Kb1 f5 13. Neg5 Nxc3+ 14. bxc3 h6 15. Nh3 Ba3 16. Nd2 Rb8+ 17. Nb3 a4 18. e4 fxe4 19. c4 O-O 20. Re1 Bxh3 21. gxh3 Rxf2 22. Rxe4 Rf1+ 23. Re1 Rxe1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "148"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Qa4+ Bd7 13. Qb3 Bc8 14. Nf3 Nd7 15. O-O-O Rg8 16. Nb5 Kd8 17. d6 cxd6 18. exd6 Qf6 19. Ng5 Ne5 20. h4 Nc6 21. Nxf7+ Ke8 22. Nc7+ Kd7 23. Bh3+ Qf5 24. Bxf5# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "149"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Qa4+ Bd7 13. Qb3 Bc8 14. O-O-O Nd7 15. Nb5 c6 16. Nc7+ Kd8 17. d6 Qe8 18. Nxe8 Kxe8 19. Nf3 Rg8 20. Ng5 Rh8 21. Qxf7+ Kd8 22. Ne6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "150"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 e6 3. e4 d4 4. Bb5+ c6 5. Bc4 dxc3 6. dxc3 Qxd1+ 7. Kxd1 Nd7 8. Bf4 a5 9. Ne5 Nxe5 10. Bxe5 Nf6 11. Bxf6 gxf6 12. Kc1 h5 13. Kb1 Bc5 14. Rf1 Bd7 15. Bd3 h4 16. c4 O-O-O 17. h3 Rdg8 18. g3 f5 19. gxh4 fxe4 20. Bxe4 Rxh4 21. Re1 Rxe4 22. Rxe4 Rg1+ 23. Re1 Rxe1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "151"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. b7 Rb8 14. Bxd2 Rxb7 15. a4 e6 16. dxe6 fxe6 17. Qh3 e5 18. Qe6+ Qe7 19. Qd5 Rb8 20. Ne2 a6 21. Bc6 Rxb2 22. Bc3 Rc2 23. Rb1 Qf6 24. Bxd7+ Kxd7 25. Rb7+ Kc8 26. Qc6+ Kd8 27. Ba5# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "152"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. b4 Ne4 7. Qf3 f5 8. Qxf5 Na6 9. Qxe4 Nxb4 10. a3 Na6 11. Nf3 Nc5 12. Qc2 d6 13. e6 Rb8 14. Bb2 Ra8 15. Nbd2 Rb8 16. Ng5 h6 17. Qg6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "153"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "154"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nc6 9. Qh5+ g6 10. Qf3 Nf6 11. Be2 Bg7 12. O-O Qe7 13. Bd2 Ne4 14. Rfd1 Be6 15. Qf4 O-O-O 16. Be1 a6 17. Bf3 Bd7 18. Bd2 g5 19. Bb4 Nxb4 20. Bxe4 gxf4 21. Nxb4 Qxb4 22. Rxd7 Kxd7 23. Bxf5+ Ke7 24. exf4 Bxb2 25. Rb1 Rd2 26. Bd3 Qxf4 27. Rxb2 Qxf2+ 28. Kh1 Qxg2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "155"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. c4 d5 2. cxd5 Qxd5 3. Nc3 Qe6 4. d4 Nf6 5. Nf3 Nc6 6. d5 Qd7 7. dxc6 Qxc6 8. e3 Be6 9. Bb5 Qxb5 10. Nxb5 Rd8 11. Nxc7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "156"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. d5 Nb4 6. Qa4+ c6 7. Qxb4 cxd5 8. Qb5+ Qd7 9. Ne5 Qxb5 10. Nxb5 Be6 11. Nc7+ Kd8 12. Nxa8 Kc8 13. g3 Kb8 14. Nc7 Kxc7 15. Bg2 Kb8 16. Nf3 Ne4 17. Bf4+ Nd6 18. Ng5 h6 19. Nxe6 fxe6 20. Be5 Rg8 21. Bh3 c3 22. Bxe6 cxb2 23. Bxb2 Rh8 24. Be5 a6 25. O-O d4 26. Rfc1 Rh7 27. Rc8+ Ka7 28. Bxd4+ b6 29. Rc7+ Kb8 30. Bxb6 Rh8 31. Rd7 Ne4 32. Ba7+ Ka8 33. Bd5# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "157"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. Bf4 Bb4 5. a3 Bxc3+ 6. bxc3 c5 7. dxc5 Qa5 8. Qd4 Nc6 9. Qe3 Ng4 10. Qd3 e5 11. Be3 e4 12. Qxd5 Qxc3+ 13. Kd1 Nxe3+ 14. fxe3 Qxa1+ 15. Kd2 Be6 16. Qxe4 Rd8+ 17. Nd4 Na5 18. Qe5 Nc4+ 19. Kd3 Qxa3+ 20. c3 Nxe5+ 21. Kc2 Nc4 22. c6 Qb2+ 23. Kd3 Qb1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "158"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 exd4 9. Qxd4 Nc6 10. Qe4+ Be6 11. e3 Bxc3+ 12. Ke2 Bxa1 13. Bf4 O-O-O 14. a4 Bg4+ 15. Qf3 Qd2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "159"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 exd4 9. Qxd4 Nc6 10. Qe4+ Be6 11. e3 Bxc3+ 12. Ke2 Qxg5 13. h4 Qc5 14. Rd1 Nf6 15. Qa4 Bc4+ 16. Kf3 Qh5+ 17. Kg3 Ne4+ 18. Kh2 Qxh4+ 19. Kg1 Qxf2+ 20. Kh2 Be5+ 21. Kh3 Qg3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "160"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 exd4 9. Qxd4 Nc6 10. Qe4+ Be6 11. e3 Bxc3+ 12. Ke2 Qxg5 13. h4 Qa5 14. Rb1 O-O-O 15. a4 Rd2+ 16. Kf3 Nf6 17. Qf4 Be5 18. Qg5 Qd5+ 19. e4 Qxe4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "161"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. b4 Ne4 7. Qf3 f5 8. Qxf5 Na6 9. Qxe4 Nxb4 10. a3 Na6 11. Qc2 Nc5 12. Nf3 d6 13. e6 Rb8 14. Be2 Ra8 15. Ng5 h6 16. Qg6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "162"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. d5 Ne5 4. e4 Nxe4 5. Qd4 Nxf2 6. Qxf2 Ng4 7. Qg3 d6 8. Be2 Ne5 9. Nf3 Nxf3+ 10. Bxf3 e5 11. dxe6 Qe7 12. O-O Qxe6 13. Bd5 Qg6 14. Bxf7+ Qxf7 15. Rxf7 Kxf7 16. Qf3+ Kg8 17. Qd5+ Be6 18. Qxe6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "163"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qe7 5. f4 f6 6. Nxf6+ gxf6 7. Nc4 Nc6 8. e3 Bf5 9. Bd3 Bxd3 10. cxd3 O-O-O 11. O-O Qd7 12. exd4 Qxd4+ 13. Ne3 h5 14. g4 hxg4 15. Qxg4+ Kb8 16. Qg6 Nb4 17. Qe4 Qd7 18. f5 Nxd3 19. Rd1 Bc5 20. Qe6 Qg7+ 21. Kf1 Rxh2 22. Ng4 Qxg4 23. Qc8+ Rxc8 24. Re1 Qxf5# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "164"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Nf3 d6 7. b4 Ncd7 8. e6 fxe6 9. Ng5 exd5 10. Ne6 Nc6 11. Nxd8 Kxd8 12. cxd5 Nxb4 13. Be2 Ne5 14. O-O e6 15. dxe6 Bxe6 16. Bb2 Nc4 17. Bc3 Nc6 18. Bxc4 Bxc4 19. Re1 d5 20. Nd2 Bd3 21. Qb3 Bd6 22. Qxd5 Bg6 23. Bxg7 Re8 24. Rxe8+ Kxe8 25. Re1+ Kd8 26. Bf6+ Kc8 27. Qe6+ Kb8 28. Qe8+ Bxe8 29. Rxe8+ Nd8 30. Rxd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "165"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Be3 Kb8 13. Ne5 c5 14. Nf7 Rxd1+ 15. Rxd1 Rg8 16. Nd8 e5 17. Ne6 c4 18. Rd8+ Kb7 19. O-O c3 20. bxc3 Nxc3 21. Kh1 Nxa2 22. Rb1+ Nb4 23. Rxb4+ Ka6 24. Rdb8 Ka5 25. R8b5+ Ka6 26. Nc5# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "166"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 Nf6 5. Bf4 Nbd7 6. e3 e5 7. e4 exf4 8. Nxd5 Nxd5 9. exd5 Bd6 10. Nf5 Be5 11. Nd4 Qb6 12. Nf5 Qb4+ 13. Qd2 Qe4+ 14. Be2 Qxf5 15. Bd3 Qf6 16. Qe2 O-O 17. Qh5 g6 18. Qf3 Bxb2 19. Rd1 Ne5 20. Qe4 Bf5 21. Qxf4 Bc3+ 22. Rd2 Nxd3+ 23. cxd3 Rfe8+ 24. Kf1 Bxd3+ 25. Re2 Qxf4 26. Kg1 Qc1+ 27. Re1 Qxe1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "167"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Nf3 Nd7 13. Nb5 Nf6 14. d6 cxd6 15. Nxd6+ Kd8 16. Ng5 Bg4 17. Qb3 Rg8 18. Ngxf7+ Kc7 19. Qxb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "168"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. d4 e6 4. Bf4 Bb4 5. a3 Bxc3+ 6. bxc3 c5 7. dxc5 Qa5 8. Qd4 Nc6 9. Qe3 Ng4 10. Qd3 e5 11. Be3 e4 12. Qxd5 Qxc3+ 13. Kd1 Qxa1+ 14. Bc1 e3 15. Qe4+ Be6 16. fxe3 Nf2+ 17. Kd2 Nxe4+ 18. Kd1 Rd8+ 19. Nd4 Qc3 20. Rg1 Nf2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "169"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qh5 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 dxe3 11. Qxe3+ Nge7 12. Ne6 Bxe6 13. Qxe6 Nd4 14. Qc4 O-O-O 15. Rd1 Rhe8 16. Qc3 Nef5+ 17. Kd2 Qg5+ 18. f4 Qxf4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "170"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Bd2 e4 13. Nd4 c5 14. Ne6 c4 15. Nxc7+ Kd8 16. Nxa8 e5 17. Ne3 Be7 18. Bc3 Kd7 19. Rd1 Rxa8 20. Bxe5 Rc8 21. O-O Bf8 22. Rd4 c3 23. bxc3 Re8 24. Bxd6 Bxd6 25. Rfd1 Re6 26. Nf5 Kc8 27. Nxd6+ Kb8 28. Rb4+ Ka8 29. Rdb1 Rxd6 30. Rb8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "171"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. d4 e6 4. Bf4 a6 5. e3 b5 6. a4 b4 7. Ne2 Bb7 8. Ne5 Nbd7 9. Qd3 Nxe5 10. dxe5 Nd7 11. Nd4 g5 12. Bg3 c5 13. Nf3 g4 14. Nd2 c4 15. Qd4 h5 16. e4 Bc5 17. Bh4 Qxh4 18. g3 Qe7 19. c3 Bxd4 20. cxd4 c3 21. bxc3 bxc3 22. Nb1 Qb4 23. exd5 Qxd4 24. Bg2 Qxe5+ 25. Kf1 c2 26. Nc3 Qxc3 27. Rc1 Qd2 28. Re1 Qxe1+ 29. Kxe1 c1=Q+ 30. Ke2 Qc2+ 31. Ke1 Rc8 32. dxe6 Qc1+ 33. Ke2 Rc2+ 34. Kd3 Qd2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "172"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 Nf6 5. Bf4 Nbd7 6. e3 e5 7. e4 exf4 8. Nxd5 Bc5 9. Qd3 Nxd5 10. exd5 O-O 11. O-O-O Nf6 12. c4 Qd6 13. Kb1 Bd7 14. Be2 a5 15. Bf3 Rac8 16. Rhe1 Qb6 17. Qc3 Bb4 18. Qb3 a4 19. Qd3 Bxe1 20. Rxe1 a3 21. Re2 Rfe8 22. Rxe8+ Rxe8 23. Qc3 Ne4 24. Bxe4 Rxe4 25. c5 Qg6 26. Ka1 Rxd4 27. Qxd4 Qc2 28. Qc3 Qd1+ 29. Qc1 Qxc1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "173"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. Bxd7+ Kxd7 15. Ne2 e6 16. dxe6+ fxe6 17. O-O e5 18. Qh3+ Ke8 19. f4 c4+ 20. Kh1 Qxb2 21. Qf3 Rd8 22. fxe5 Qxd2 23. Qf7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "174"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nc6 9. Qh5+ g6 10. Qf3 Nf6 11. Be2 Bg7 12. O-O Qe7 13. Bd2 Ne4 14. Rfd1 Be6 15. Qf4 O-O-O 16. Be1 Kb8 17. Bf3 Bc8 18. Rac1 g5 19. Bb4 Nxb4 20. Bxe4 fxe4 21. Qg3 exd3 22. cxd3 Nxd3 23. Rc2 Nf4 24. Rxd8 Qxd8 25. Qf3 g4 26. Rd2 Qxd2 27. Qxb7+ Bxb7 28. h3 g3 29. Kh1 Qd1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "175"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "176"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 Nf6 5. Bf4 Nbd7 6. e3 e5 7. e4 exf4 8. Nxd5 Nxd5 9. exd5 Bd6 10. Nf5 Be5 11. Nd4 Qb6 12. Nf5 Qb4+ 13. Qd2 Qe4+ 14. Be2 Qxf5 15. Bd3 Qf6 16. Qe2 O-O 17. Qh5 g6 18. Qf3 Bxb2 19. Rd1 Ne5 20. Qe4 Bf5 21. Qxf4 Bc3+ 22. Rd2 Nxd3+ 23. cxd3 Rae8+ 24. Kf1 Bxd3+ 25. Re2 Qxf4 26. Kg1 Qc1+ 27. Re1 Qxe1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "177"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 Bxc3+ 9. Bd2 exd4 10. Bxc3 Qxc3+ 11. Qd2 Qxa1+ 12. Qd1 Qc3+ 13. Qd2 Qa1+ 14. Qd1 Qxd1+ 15. Kxd1 Be6 16. e3 dxe3 17. fxe3 Nc6 18. a3 O-O-O+ 19. Bd3 Ne5 20. Ke2 Nf6 21. e4 Rd4 22. Ke3 Rhd8 23. Rc1 Kb8 24. Re1 Nxd3 25. cxd3 Rxd3+ 26. Kf2 Ng4+ 27. Kg1 Rd1 28. Rf1 Bc4 29. g3 Bxf1 30. Kh1 Bh3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "178"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Nf3 Nd7 13. Nb5 Nf6 14. d6 cxd6 15. Nxd6+ Kd8 16. Ng5 Bg4 17. Qb3 Rg8 18. Ngxf7+ Kc7 19. Qxb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "179"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Qa4+ Bd7 13. Qb3 Bc8 14. O-O-O Nd7 15. Nb5 c6 16. Nc7+ Kd8 17. d6 Qe8 18. Nxe8 Kxe8 19. Nf3 Rg8 20. Ng5 Rh8 21. Qxf7+ Kd8 22. Ne6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "180"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qh5 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 h6 11. Nf3 Bg4 12. Qf4 O-O-O 13. O-O-O Kb8 14. Kb1 Nf6 15. Be2 Qc5 16. Nxd4 Nxd4 17. Bxg4 Qxc2+ 18. Ka1 Nxg4 19. Qxg4 Nb3+ 20. axb3 Rd6 21. e5 Ra6+ 22. Qa4 Rxa4+ 23. bxa4 Rd8 24. d4 Rd5 25. Rhf1 Ra5 26. b3 Qxb3 27. Rd2 Rxa4+ 28. Ra2 Qxa2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "181"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. d4 e6 4. Bf4 Bb4 5. a3 Bxc3+ 6. bxc3 c5 7. dxc5 Ne4 8. Qd4 O-O 9. e3 Nc6 10. Qd3 Qf6 11. Bd6 Rd8 12. O-O-O Nxf2 13. Qb5 Nxh1 14. Bc7 Rd7 15. Ba5 Nf2 16. Re1 Re7 17. Nd4 e5 18. Nxc6 bxc6 19. Qb3 Ne4 20. Bb4 a5 21. Qa4 Rea7 22. Bxa5 Qf2 23. Re2 Qxf1+ 24. Kb2 Rxa5 25. Qxc6 Rb8+ 26. Qb6 Rxb6+ 27. cxb6 Rb5+ 28. Ka2 Nxc3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "182"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. Nf3 Nc6 3. d5 Nb4 4. a3 Nbxd5 5. c4 Nb6 6. c5 Nbd5 7. e4 e6 8. exd5 Nxd5 9. Bc4 Bxc5 10. Bxd5 exd5 11. O-O c6 12. Re1+ Kf8 13. Nc3 Qb6 14. Na4 Bxf2+ 15. Kf1 Qc7 16. Kxf2 d6 17. Bf4 Kg8 18. Re8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "183"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 c5 3. d4 Nc6 4. dxc5 Nf6 5. Bg5 d4 6. Bxf6 exf6 7. Ne4 Bf5 8. Nfd2 Qd5 9. c4 Qe5 10. f4 Qxf4 11. g3 Qe3 12. Nd6+ Bxd6 13. cxd6 O-O 14. Bg2 Nb4 15. Bxb7 Nd3+ 16. Kf1 Qf2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "184"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qh5 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 dxe3 11. Qxe3+ Nge7 12. Ne6 Bxe6 13. Qxe6 Nd4 14. Qc4 O-O-O 15. Rd1 Rhe8 16. Qc3 Nef5+ 17. Kd2 Qg5+ 18. f4 Qxf4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "185"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 Nf6 7. Bd3 Nb4 8. Ne5 Nxd3 9. Nxf6+ gxf6 10. Nxd3 Rg8 11. Nf4 Bf5 12. Nd5 O-O-O 13. e4 Bxe4 14. c4 Bxg2 15. Rg1 Bf3+ 16. Kd2 Rxg1 17. Kc2 Be4+ 18. Kd2 e6 19. f3 Bg6 20. f4 Bb4+ 21. Ke2 exd5 22. cxd5 Re8+ 23. Kf2 Bc5+ 24. Be3 Bxe3+ 25. Ke2 Bc5+ 26. Kf3 Bh5# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "186"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. Nf3 Nc6 3. d5 Nb4 4. a3 Nbxd5 5. c4 Nb6 6. c5 Nbd5 7. e4 e6 8. exd5 Nxd5 9. Bc4 Bxc5 10. Bxd5 exd5 11. O-O c6 12. Re1+ Kf8 13. Nc3 Qb6 14. Na4 Bxf2+ 15. Kf1 Qc7 16. Kxf2 d6 17. Qd4 Kg8 18. Re8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "187"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. Nf3 Nc6 3. d5 Nb4 4. a3 Nbxd5 5. c4 Nb6 6. c5 Nbd5 7. e4 e6 8. exd5 Nxd5 9. Bc4 Bxc5 10. Bxd5 exd5 11. O-O c6 12. Re1+ Kf8 13. Be3 Qb6 14. Bxc5+ Qxc5 15. Qd2 Kg8 16. Re8+ Qf8 17. Rxf8+ Kxf8 18. Qb4+ Kg8 19. Nbd2 Rb8 20. Re1 Ra8 21. Re8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "188"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Nxe5 c5 13. Be3 Ne4 14. Rc1 e6 15. O-O Bd6 16. Nc4 O-O 17. Nc3 Nxc3 18. Rxc3 e5 19. Rfc1 Rfe8 20. b3 Rad8 21. g3 e4 22. R3c2 Be7 23. Rd2 Rxd2 24. Nxd2 Bd6 25. Kf1 Re5 26. Rc4 Rh5 27. h4 Rf5 28. g4 Rf8 29. Rxe4 Rd8 30. Ra4 Ra8 31. Ke2 h6 32. Ne4 Bf8 33. Nxc5 Bxc5 34. Bxc5 Re8+ 35. Kd2 Rd8+ 36. Kc1 Rd5 37. Be3 a5 38. Rc4 Rd7 39. Rc6 Rf7 40. g5 hxg5 41. hxg5 Re7 42. g6 Rd7 43. Bc5 Kh8 44. Kc2 Kg8 45. a4 Kh8 46. Ra6 Kg8 47. Ra8+ Rd8 48. Rxd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "189"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nc6 9. Qh5+ g6 10. Qf3 Nf6 11. Be2 Bg7 12. O-O Qe7 13. Bd2 Ne4 14. Rfd1 Be6 15. Qf4 O-O-O 16. Be1 g5 17. Qf3 h5 18. Rac1 h4 19. g4 hxg3 20. hxg3 Kb8 21. g4 fxg4 22. Qxe4 Bd5 23. Qxd5 Rxd5 24. Bxg4 Bf6 25. Bf3 Rf5 26. Bxc6 bxc6 27. Bb4 Qe4 28. f4 Rh1+ 29. Kf2 Rh2+ 30. Kg3 Qg2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "190"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. b7 Rb8 13. Bb5+ Nd7 14. Bxd2 Rxb7 15. a4 e6 16. dxe6 fxe6 17. Qh3 e5 18. Nf3 e4 19. Ng5 Qf6 20. Nxe4 Qxb2 21. Qe6+ Kd8 22. Bg5+ Kc8 23. Qe8+ Kc7 24. Qd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "191"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Nf3 d6 7. b4 Ncd7 8. e6 fxe6 9. Ng5 exd5 10. Ne6 Nc6 11. Nxd8 Kxd8 12. cxd5 Nxb4 13. a3 Na6 14. Be2 Nac5 15. Nc3 e5 16. O-O Be7 17. Be3 Bf6 18. Rc1 Re8 19. Bb5 e4 20. Re1 a6 21. Be2 Nb6 22. Bxc5 dxc5 23. d6 Bf5 24. Nd5 Nxd5 25. Qxd5 Bc8 26. Rxc5 cxd6 27. Rxc8+ Kxc8 28. Qxd6 Rd8 29. Rc1+ Bc3 30. Rxc3# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "192"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Nxe5 c5 13. Be3 Ne4 14. Nd3 c4 15. Ne5 Nd6 16. Rc1 e6 17. Nxc4 Nxc4 18. Rxc4 Bd6 19. Kd2 O-O-O 20. Kc2 Kb8 21. Nc3 e5 22. Ra4 c5 23. Rg4 Rhg8 24. h4 h5 25. Rc4 Rgf8 26. Ne4 Rfe8 27. Kb1 Bf8 28. Nxc5 Bd6 29. Rhc1 Bxc5 30. Rxc5 Re7 31. g3 Rde8 32. a4 Rd8 33. Bg5 Rde8 34. Bxe7 Rxe7 35. Rb5+ Ka8 36. Rc8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "193"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Nf3 d6 7. b4 Ncd7 8. e6 fxe6 9. Ng5 exd5 10. Ne6 Nc6 11. Nxd8 Kxd8 12. Nc3 dxc4 13. Bxc4 Nxb4 14. O-O e5 15. Bg5+ Be7 16. Bxe7+ Kxe7 17. Qg4 Kf8 18. Qe6 Nc5 19. Qf7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "194"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. Nf3 Nc6 6. d5 Rg8 7. Nc3 Rh8 8. dxe6 dxe6 9. Qxd8+ Kxd8 10. h4 f6 11. Be3 fxe5 12. Ng5 Bd7 13. Nf7+ Kc8 14. Nxh8 Kb8 15. O-O-O Be8 16. Ne4 Bh5 17. f3 Be8 18. Ng5 Nb4 19. Rd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "195"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Nf3 d6 7. b4 Ncd7 8. e6 fxe6 9. Ng5 exd5 10. Ne6 Nc6 11. Nxd8 Kxd8 12. cxd5 Nxb4 13. Be2 Ne5 14. O-O e6 15. dxe6 Bxe6 16. Nc3 d5 17. Be3 Bd6 18. Nb5 Nbc6 19. f4 Nf7 20. f5 Bd7 21. Bh5 Ne7 22. Nxd6 Nxd6 23. Bg5 Bc6 24. f6 gxf6 25. Bxf6 Rf8 26. Bxe7+ Kxe7 27. Qe1+ Ne4 28. Qb4+ Nd6 29. Rae1+ Kd7 30. Bg4+ Nf5 31. Qe7+ Kc8 32. Qxf8+ Be8 33. Qxe8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "196"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 e6 2. Nc3 d5 3. e4 d4 4. Bb5+ c6 5. Bc4 dxc3 6. dxc3 Qxd1+ 7. Kxd1 a5 8. Bg5 Nf6 9. Bxf6 gxf6 10. Nd4 Nd7 11. Kc1 Nc5 12. Re1 Rg8 13. b4 axb4 14. cxb4 Nd7 15. Kb1 Bxb4 16. Rg1 Bc3 17. Nf3 Nc5 18. Bd3 e5 19. h3 Be6 20. a3 Ke7 21. Ra2 Bxa2+ 22. Kxa2 Rxa3+ 23. Kxa3 Ra8+ 24. Ba6 Rxa6# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "197"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "198"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "199"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. Bf4 Bb4 5. a3 Bxc3+ 6. bxc3 c5 7. dxc5 Qa5 8. Qd4 Nc6 9. Qe3 Ng4 10. Qd3 e5 11. Be3 e4 12. Qxd5 Qxc3+ 13. Kd1 Qxa1+ 14. Bc1 Nxf2+ 15. Kd2 Be6 16. Bb2 Qd1+ 17. Ke3 Ng4+ 18. Kxe4 Qxd5+ 19. Kf4 Qxc5 20. Bxg7 Rg8 21. Bb2 Qe3+ 22. Kg3 Nge5+ 23. Kh4 Qh6# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "200"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. d5 Ne5 4. e4 Nxe4 5. Qd4 Nxf2 6. Qxf2 Ng4 7. Qg3 d6 8. Be2 Ne5 9. Nf3 Nxf3+ 10. Bxf3 e5 11. dxe6 Qe7 12. O-O Qxe6 13. Re1 Rb8 14. Nc3 Rg8 15. Bg5 Be7 16. Nd5 Bxg5 17. Nxc7+ Kf8 18. Nxe6+ Bxe6 19. Qxd6+ Be7 20. Qxb8+ Bd8 21. Qxd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "201"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Nxe5 c5 13. O-O Nf7 14. Nxf7 Kxf7 15. Be3 e5 16. Re1 Rb8 17. Rc1 Rb5 18. Bd2 Bd6 19. Bc3 c4 20. Ne3 Rc5 21. Re2 Kg8 22. Nf1 Rd5 23. Re4 Rc5 24. Nd2 Rc6 25. Rce1 Bc5 26. Nf3 Rf6 27. Rxe5 Bd6 28. R5e4 Rf4 29. Rxf4 Bxf4 30. Re8+ Kf7 31. Rxh8 h6 32. Rh7 Kg8 33. Rxg7+ Kf8 34. g3 Bd6 35. Rh7 Kg8 36. Rh8+ Kf7 37. Rxh6 Kg8 38. a4 Bc5 39. Ng5 Bd6 40. Rh8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "202"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. d5 Nb4 6. Qa4+ c6 7. Qxb4 cxd5 8. Qa4+ Bd7 9. Qc2 Bc6 10. e4 dxe4 11. Ne5 Qd6 12. Nxc4 Qe6 13. Be3 b5 14. Na5 b4 15. Nb5 Bxb5 16. Bxb5+ Kd8 17. Nb7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "203"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 Nf6 7. Bd3 Nb4 8. Ne5 Nxd3 9. Nxf6+ gxf6 10. Nxd3 Rg8 11. Nf4 Bf5 12. Nd5 O-O-O 13. e4 Bxe4 14. c4 Bxg2 15. Rg1 Bf3+ 16. Kd2 Rxg1 17. Kc2 Be4+ 18. Kd2 e6 19. f3 Bg6 20. f4 exd5 21. cxd5 Bb4+ 22. Ke2 Re8+ 23. Kf2 Bc5+ 24. Be3 Bxe3+ 25. Ke2 Bc5+ 26. Kf3 Bh5# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "204"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Bf4 Kb8 13. Be5 c5 14. O-O Nd2 15. Nxd2 Rxd2 16. Ne3 Rg8 17. Rfd1 Re2 18. Kf1 Rxe3 19. Rd8+ Kb7 20. fxe3 Rh8 21. Rdd1 Kb8 22. Rac1 Rg8 23. Rxc5 Rh8 24. Rxc7 Ka8 25. Rd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "205"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 exd4 9. Qxd4 Nc6 10. Qe4+ Be6 11. e3 Bxc3+ 12. Ke2 Qb5+ 13. Kd1 Qxg5 14. h4 Qh5+ 15. Be2 O-O-O+ 16. Kc1 Qxe2 17. Kb1 Rd1+ 18. Rxd1 Qxd1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "206"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 exd4 9. Qxd4 Nc6 10. Qe4+ Be6 11. e3 Bxc3+ 12. Ke2 Qxg5 13. h4 Qc5 14. Rd1 Nf6 15. Qa4 b5 16. Qa6 Bb4 17. Kf3 Qh5+ 18. Kg3 Qe5+ 19. f4 Qxe3+ 20. Kh2 Ng4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "207"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 Nf6 5. Bf4 Nbd7 6. e3 e5 7. e4 exf4 8. Nxd5 Bc5 9. Qd3 Nxd5 10. exd5 O-O 11. O-O-O Nf6 12. c4 a5 13. Kb1 Qb6 14. Be2 Re8 15. Bf3 Bd7 16. Qc3 Rac8 17. Qd3 a4 18. Qc3 Ne4 19. Bxe4 Rxe4 20. Nf3 a3 21. Ne5 Bf5 22. Nd3 Re2 23. b4 Bxb4 24. c5 Bxc3+ 25. cxb6 Rb2+ 26. Ka1 Rxb6+ 27. Nb2 axb2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "208"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nc6 9. Qh5+ g6 10. Qf3 Nf6 11. Be2 Bg7 12. O-O Qe7 13. Bd2 Ne4 14. Rfd1 Be6 15. Qf4 O-O-O 16. Be1 g5 17. Qf3 h5 18. Rac1 g4 19. Qf4 Bh6 20. Bb4 Nxb4 21. Qe5 Nc6 22. Qb5 a6 23. Qa4 Kb8 24. h3 g3 25. fxg3 Bxe3+ 26. Kh2 h4 27. Rb1 hxg3+ 28. Kh1 Rxh3+ 29. gxh3 g2+ 30. Kxg2 Qh4 31. Bf3 Qg3+ 32. Kf1 Qg1+ 33. Ke2 Ng3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "209"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 e5 7. Bb5 Nf6 8. Bxc6+ bxc6 9. Nxf6+ gxf6 10. e4 Rg8 11. Rg1 Rg4 12. Nd2 Bc5 13. Ke2 Ba6+ 14. Ke1 Rf4 15. b4 Bxf2+ 16. Kd1 Bxg1 17. Nf3 Rd8+ 18. Bd2 Be3 19. Kc1 Rxf3 20. gxf3 Rxd2 21. h3 Rh2+ 22. Kb1 Bd4 23. c3 Bd3+ 24. Kc1 Be3+ 25. Kd1 Rh1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "210"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Nf3 d6 7. b4 Ncd7 8. e6 fxe6 9. Ng5 exd5 10. Ne6 Nc6 11. Nxd8 Kxd8 12. cxd5 Nxb4 13. a3 Na6 14. Bb2 Nac5 15. Bb5 a6 16. Be2 e5 17. dxe6 Nb6 18. Bd4 Nxe6 19. Bxb6 cxb6 20. O-O Be7 21. Nc3 Bd7 22. Nd5 b5 23. Re1 Re8 24. Bg4 Bg5 25. Nb6 Rb8 26. Qxd6 Bf4 27. Qxd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "211"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Nf3 d6 7. b4 Ncd7 8. e6 fxe6 9. Ng5 exd5 10. Ne6 Nc6 11. Nxd8 Kxd8 12. cxd5 Nxb4 13. Bd2 Nxd5 14. Be2 e5 15. O-O Be7 16. Nc3 N7f6 17. Nxd5 Nxd5 18. Rb1 Bf6 19. Bf3 Nb6 20. Be3 Bf5 21. Bxb7 Bxb1 22. Qxb1 Rb8 23. Bc6 Kc8 24. Qf5+ Kd8 25. Bxb6 Rxb6 26. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "212"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. d5 Nb4 6. Qa4+ c6 7. Qxb4 cxd5 8. Qa4+ Bd7 9. Qc2 Bc6 10. e4 dxe4 11. Ne5 Qd6 12. Bf4 g5 13. Bxc4 gxf4 14. Bxf7+ Kd8 15. Rd1 Bd5 16. Nxd5 Qxe5 17. Nxf4+ Nd7 18. Ne6+ Qxe6 19. Bxe6 Bg7 20. Rxd7+ Ke8 21. Qc5 Bxb2 22. Qxe7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "213"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bd3 Nc5 11. Bb5 a6 12. Bxc6+ bxc6 13. Ke2 O-O-O 14. Be3 Nd3 15. Nc3 Nxb2 16. Rab1 Nc4 17. Rhc1 e5 18. Ne4 Nxe3 19. fxe3 Rd5 20. Rxc6 Ra5 21. Rc2 e6 22. Nfd2 Be7 23. Nc4 Rd5 24. Nb6+ Kd8 25. Nxd5 exd5 26. Rb8+ Kd7 27. Rxh8 dxe4 28. Ra8 Bf6 29. Ra7 Kc8 30. Rcxc7+ Kb8 31. Rab7+ Ka8 32. Rf7 h6 33. Rbd7 Kb8 34. Rf8+ Bd8 35. Rfxd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "214"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Nf3 d6 7. b4 Ncd7 8. e6 fxe6 9. Ng5 exd5 10. Ne6 Nc6 11. Nxd8 Kxd8 12. cxd5 Nxb4 13. Bd2 Nxd5 14. Nc3 e6 15. Bc4 N7b6 16. Bxd5 exd5 17. Bg5+ Be7 18. Bxe7+ Kxe7 19. Nxd5+ Nxd5 20. Qxd5 Kf8 21. O-O Rg8 22. Rac1 Bg4 23. Rxc7 Rb8 24. Qf7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "215"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 Nf6 7. Bd3 Nxe4 8. Bxe4 g6 9. Bxc6+ bxc6 10. e4 Bg7 11. e5 Bg4 12. Bf4 Bxf3+ 13. gxf3 O-O-O+ 14. Kc1 Rd4 15. Be3 Rh4 16. Bg5 Rh5 17. Bxe7 Bxe5 18. h3 Re8 19. Bb4 Bf4+ 20. Kb1 c5 21. Bc3 Re2 22. Rf1 Rxh3 23. a3 Rxf3 24. Rh1 h5 25. Be1 g5 26. Rg1 h4 27. Rh1 h3 28. b4 c4 29. b5 g4 30. Rg1 h2 31. Rh1 Be5 32. Ra2 g3 33. fxg3 Rfe3 34. Bb4 Rxg3 35. Rf1 Rg1 36. Bc3 Bxc3 37. Rb2 Rxf1+ 38. Ka2 Ree1 39. Rb1 Rxb1 40. b6 Ra1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "216"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Bf4 Kb8 13. O-O c5 14. Be5 Nd2 15. Nxd2 Rxd2 16. Ne3 Rg8 17. Bc3 Re2 18. Rfd1 Rh8 19. Rac1 Rg8 20. Rd8+ Kb7 21. Nc4 Rh8 22. Kf1 Re4 23. Na5+ Ka6 24. Nb3 c4 25. Nc5+ Kb6 26. Nxe4 Kb7 27. Be5 Rg8 28. Rxc4 c6 29. Rb8+ Ka6 30. Ra4# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "217"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. Bf4 Bb4 5. a3 Bxc3+ 6. bxc3 Ne4 7. Qd3 b6 8. Nd2 Ba6 9. Qf3 Nxd2 10. Kxd2 O-O 11. e4 Bxf1 12. Rhxf1 Nc6 13. Kc1 Na5 14. exd5 exd5 15. Qg3 Re8 16. Bxc7 Qe7 17. Bd6 Qe6 18. Be5 f6 19. Bd6 Nc4 20. Bf4 Qe1+ 21. Rxe1 Rxe1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "218"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Nc3 Nxc3 11. bxc3 e4 12. Ng5 Ne5 13. Be6 Nd3+ 14. Ke2 Nxc1+ 15. Rhxc1 e3 16. Rd1 h6 17. Bf7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "219"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Bd2 e4 13. Nd4 c5 14. Ne6 c4 15. Nxc7+ Kd8 16. Nxa8 e5 17. Ne3 Be7 18. Bc3 Kd7 19. Bxe5 Rxa8 20. Rd1 Rc8 21. Bxg7 Rg8 22. Bc3 Kc8 23. a4 Kb8 24. O-O Re8 25. h3 Rd8 26. Rd5 Re8 27. Be5 Rd8 28. Nxc4 Kc7 29. Rfd1 Kb8 30. Nxd6 Bxd6 31. Rxd6 Re8 32. Rd8+ Kb7 33. Rxe8 h6 34. Re7+ Ka8 35. Rd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "220"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Nf3 d6 7. b4 Ncd7 8. e6 fxe6 9. Ng5 exd5 10. Ne6 Nc6 11. Nxd8 Kxd8 12. cxd5 Nxb4 13. Be2 Ne5 14. O-O e6 15. dxe6 Bxe6 16. Nc3 d5 17. Nb5 Bc5 18. Bf4 Nbc6 19. Qc1 Bb6 20. Bxe5 Nxe5 21. Qg5+ Kc8 22. Qxe5 Re8 23. Rac1 Re7 24. Qd6 Re8 25. Rxc7+ Bxc7 26. Qxc7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "221"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nf3 Nc6 4. c4 Nf4 5. d4 Ne6 6. d5 Rg8 7. Nc3 Rh8 8. dxe6 dxe6 9. Qe2 Nd4 10. Nxd4 Qxd4 11. f4 Bd7 12. Be3 c5 13. Bxd4 cxd4 14. Nb5 Bxb5 15. cxb5 O-O-O 16. Rc1+ Kb8 17. Qc2 Re8 18. Qc7+ Ka8 19. Qc8+ Rxc8 20. Rxc8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "222"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. b7 Rb8 14. Bxd2 Rxb7 15. a4 e6 16. dxe6 fxe6 17. Qh3 e5 18. Nf3 e4 19. Ng5 Qf6 20. Nxe4 Qxb2 21. Qe6+ Kd8 22. Bg5+ Kc8 23. Qe8+ Kc7 24. Qd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "223"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Nf3 d6 7. b4 Ncd7 8. e6 fxe6 9. Ng5 exd5 10. Ne6 Nc6 11. Nxd8 Kxd8 12. cxd5 Nxb4 13. Be2 Ne5 14. O-O e6 15. dxe6 Bxe6 16. Nc3 d5 17. a3 Nbc6 18. Nxd5 Bd6 19. Nf4 Re8 20. Kh1 Kc8 21. Nxe6 Rxe6 22. Rb1 Kb8 23. Ba6 b6 24. Bf4 Bxa3 25. Bxe5 Nxe5 26. Qd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "224"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 exd4 9. Qxd4 Nc6 10. Qe4+ Be6 11. e3 Bxc3+ 12. Ke2 Qxg5 13. h4 Qc5 14. Rd1 Nf6 15. Qa4 Bc4+ 16. Kf3 Qh5+ 17. Kg3 Ne4+ 18. Kh2 Qxh4+ 19. Kg1 Qxf2+ 20. Kh2 Be5+ 21. Kh3 Qg3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "225"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 Nf6 5. Bf4 Nbd7 6. e3 e5 7. e4 exf4 8. Nxd5 Nxd5 9. exd5 Be7 10. Qg4 O-O 11. Qxf4 Re8 12. Bc4 Bg5+ 13. Qe3 Bxe3 14. fxe3 Rxe3+ 15. Kf2 Re4 16. Rhd1 Qf6+ 17. Kg1 Rxd4 18. Rxd4 Qxd4+ 19. Kh1 Qxc4 20. Rd1 Qxc2 21. Re1 Nf6 22. d6 b6 23. Kg1 Bb7 24. Re2 Qxe2 25. Kh1 Qxg2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "226"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 exd4 9. Qxd4 Nc6 10. Qe4+ Be6 11. e3 Bxc3+ 12. Ke2 Qxg5 13. h4 Qc5 14. Rd1 Nf6 15. Qa4 Bc4+ 16. Kf3 Qh5+ 17. Kg3 Ne4+ 18. Kh2 Qxh4+ 19. Kg1 Qxf2+ 20. Kh2 Be5+ 21. Kh3 Qg3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "227"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Bd2 e4 13. Nd4 c5 14. Ne6 c4 15. Nxc7+ Kd8 16. Nxa8 e5 17. Ne3 Be7 18. Bc3 Kd7 19. O-O-O Rxa8 20. Rd2 Ke6 21. Rd5 Bf6 22. Rhd1 Rd8 23. Ba5 Rd7 24. Bb4 Be7 25. Bc3 Bf6 26. Bb4 Be7 27. Ng4 Bg5+ 28. Kc2 Be7 29. Rxe5+ Kf7 30. Rxe4 Nxe4 31. Rxd7 Nxf2 32. Rxe7+ Kg8 33. Nxf2 a6 34. Ra7 h6 35. Rxa6 h5 36. a4 h4 37. Kc3 h3 38. Nxh3 Kh8 39. Ng5 Kg8 40. Ra8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "228"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "229"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "230"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 Nf6 8. Nfe5 exd3 9. Bxd3 Bd6 10. Bb5+ c6 11. Nc4 Bb4+ 12. Bd2 Bxd2+ 13. Qxd2 Qxd2+ 14. Kxd2 Ne4+ 15. Kc1 cxb5 16. Ne5 Nxf2 17. Rf1 Ne4 18. Kb1 Nd2+ 19. Kc1 Nxf1 20. a4 b4 21. Nc4 Be6 22. Nd6+ Ke7 23. Nxb7 Rc8 24. Kb1 Nd2+ 25. Kc1 Nb3+ 26. Kb1 Nxa1 27. Kxa1 Rxc2 28. Kb1 b3 29. a5 Na6 30. h3 Rac8 31. Nc5 R2xc5 32. Ka1 Rc1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "231"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. Bf4 c5 5. e3 a6 6. Bd3 c4 7. Be2 b5 8. a4 b4 9. Bxb8 bxc3 10. Be5 cxb2 11. Rb1 Qa5+ 12. Kf1 c3 13. Bxf6 gxf6 14. Qd3 Bd7 15. Kg1 Bxa4 16. e4 Bb5 17. Qe3 Qa2 18. Bxb5+ axb5 19. Qe1 Qxb1 20. Qxb1 Ra1 21. Nd2 cxd2 22. Qf1 Rxf1+ 23. Kxf1 d1=Q# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "232"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Bd2 e4 13. Nd4 c5 14. Ne6 c4 15. Nxc7+ Kd8 16. Nxa8 e5 17. Ne3 Be7 18. Bc3 Kd7 19. Nc7 Kxc7 20. Bxe5 Kb8 21. Rd1 Rd8 22. Nxc4 Kc7 23. Ke2 Rd7 24. Nxd6 Bxd6 25. Rxd6 Rxd6 26. Rd1 Kb8 27. Rxd6 g5 28. Rd7+ Ka8 29. Rxh7 g4 30. b4 a6 31. Ke3 g3 32. Bxg3 a5 33. b5 a4 34. b6 a3 35. Ra7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "233"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. d4 e6 4. Bf4 c5 5. e3 a6 6. Bd3 c4 7. Be2 b5 8. a4 b4 9. Bxb8 bxc3 10. Be5 cxb2 11. Rb1 Bb4+ 12. Kf1 c3 13. Kg1 Bd7 14. Bxf6 gxf6 15. Bd3 Bxa4 16. e4 dxe4 17. Bxe4 Rb8 18. Qd3 Qd6 19. Bxh7 Bb5 20. Qe4 Bc4 21. Re1 Ba3 22. Rb1 Ba2 23. Rf1 b1=Q 24. Rxb1 Rxb1+ 25. Ne1 Qxd4 26. Qc6+ Kf8 27. Qc8+ Kg7 28. Qxa6 Rxe1+ 29. Qf1 Rxf1+ 30. Kxf1 Qd1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "234"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 Nf6 5. Bf4 Nbd7 6. e3 e5 7. e4 exf4 8. Nxd5 Bc5 9. Qd3 Nxd5 10. exd5 O-O 11. O-O-O Nf6 12. c4 Re8 13. Kb1 Qb6 14. h3 Ne4 15. f3 Nf2 16. Qc3 Nxd1 17. Qb3 Bxd4 18. Qxb6 axb6 19. b4 Bf5+ 20. Kc1 Rxa2 21. Kxd1 Bc3 22. Bd3 Bxd3 23. Rh2 Ra1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "235"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. Bg5 Bf5 6. d5 Nb4 7. Qa4+ Qd7 8. Qxb4 Nxd5 9. Qxb7 Nb6 10. e4 Be6 11. Be3 c5 12. Qxd7+ Nxd7 13. Nb5 Rb8 14. Nc7+ Kd8 15. Nxe6+ fxe6 16. Bxc4 Rxb2 17. O-O e5 18. Rfd1 Kc8 19. Be6 Rb7 20. Nxe5 Kb8 21. Nxd7+ Ka8 22. Nxc5 Rb2 23. Rd8+ Rb8 24. Bd5# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "236"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. d5 Ne5 4. e4 Nxe4 5. Qd4 Nxf2 6. Qxf2 Ng4 7. Qg3 d6 8. Be2 Ne5 9. Nf3 Nxf3+ 10. Bxf3 e5 11. dxe6 Qe7 12. O-O Qxe6 13. Bd5 Qg6 14. Bxf7+ Qxf7 15. Rxf7 Kxf7 16. Qf3+ Kg8 17. Qd5+ Be6 18. Qxe6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "237"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. d4 e6 4. Bf4 c5 5. e3 a6 6. Bd3 c4 7. Be2 b5 8. a4 b4 9. Bxb8 bxc3 10. Be5 cxb2 11. Rb1 Qa5+ 12. Kf1 c3 13. Bxf6 gxf6 14. Qd3 Rb8 15. Kg1 Bd6 16. h3 Ke7 17. h4 Bd7 18. Qxa6 Qxa6 19. Bxa6 Bxa4 20. Bd3 e5 21. e4 Bc6 22. exd5 Bxd5 23. dxe5 fxe5 24. Ng5 Ba2 25. Kh2 e4+ 26. Kg1 exd3 27. Re1+ Kd7 28. Nf3 dxc2 29. Ne5+ Bxe5 30. Rxe5 c1=R+ 31. Re1 Rxe1+ 32. Kh2 Rxh1+ 33. Kxh1 b1=Q+ 34. Kh2 Rhg8 35. h5 Qf1 36. g4 Rxg4 37. h6 Qg2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "238"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qh5 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 dxe3 11. Qxe3+ Nge7 12. Ne6 Bxe6 13. Qxe6 Nd4 14. Qc4 O-O-O 15. Rd1 Rhe8 16. Qc3 Nef5+ 17. Kd2 Qg5+ 18. f4 Qxf4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "239"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. b4 Ne4 7. Qf3 f5 8. Qxf5 Na6 9. Qxe4 Nxb4 10. Nf3 d6 11. a3 Na6 12. e6 Nc5 13. Qf5 Nb3 14. Qf7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "240"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Be3 Kb8 13. Ne5 c5 14. Nf7 Rxd1+ 15. Rxd1 Rg8 16. h4 c4 17. Ng5 Nxg5 18. hxg5 Rh8 19. g6 h6 20. Rh4 c3 21. Rb4+ Ka8 22. Rd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "241"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bb5 e6 11. Nxe5 Bb4+ 12. Ke2 O-O 13. Bxc6 bxc6 14. Be3 c5 15. Nc6 Rfe8 16. a3 Bxa3 17. Rxa3 a6 18. f3 Nd6 19. Rc3 c4 20. Ne5 Rad8 21. Re1 h6 22. Nxc4 Nxc4 23. Rxc4 Re7 24. Nc3 e5 25. Rd1 Rb8 26. Ne4 Rxb2+ 27. Rd2 Rxd2+ 28. Nxd2 Rf7 29. g3 Re7 30. Rc5 h5 31. Ne4 Kh8 32. Bg5 Re8 33. Bc1 Re7 34. h4 Kg8 35. Ke1 Kh8 36. Ng5 Kg8 37. Ra5 Re8 38. Kd2 Rd8+ 39. Kc2 Re8 40. Rc5 Re7 41. Kb1 Kh8 42. Bb2 Kg8 43. Ka1 Re8 44. Rxc7 a5 45. Ra7 Ra8 46. Rxa8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "242"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "243"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 Bxc3+ 9. Bd2 exd4 10. Bxc3 Qxc3+ 11. Qd2 Qxa1+ 12. Qd1 Qxa2 13. Qxd4 Nf6 14. Qe5+ Be6 15. Qb5+ Nc6 16. Qxb7 Qa1+ 17. Kd2 Rd8+ 18. Ke3 Qe5+ 19. Kf3 Bg4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "244"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. Nf3 Nf6 2. d4 Nc6 3. d5 Nb4 4. a3 Nbxd5 5. c4 Nb6 6. c5 Nbd5 7. e4 e6 8. exd5 Nxd5 9. Bc4 Bxc5 10. Bxd5 exd5 11. O-O c6 12. Re1+ Kf8 13. h3 Qb6 14. Qe2 Kg8 15. Qe8+ Bf8 16. Ng5 f6 17. Qf7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "245"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qg6 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 dxe3 11. Qxe3+ Nge7 12. Ne4 O-O 13. d4 Nd5 14. Bc4 Be6 15. Bxd5 Bxd5 16. Nc5 Nb4 17. Kf1 Qxg2+ 18. Ke2 Rxf2+ 19. Qxf2 Re8+ 20. Ne4 Rxe4+ 21. Kd2 Qxf2+ 22. Kc3 Qxd4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "246"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 e5 7. Bb5 Nf6 8. Bxc6+ bxc6 9. Nxf6+ gxf6 10. e4 Rg8 11. Rg1 Rg4 12. Nd2 Bc5 13. Ke2 Ba6+ 14. Ke1 Rf4 15. b4 Bxf2+ 16. Kd1 Bxg1 17. Nf3 O-O-O+ 18. Bd2 Be3 19. Kc1 Rxf3 20. gxf3 Rxd2 21. h3 Rf2+ 22. Kb1 Bd4 23. c3 Bd3+ 24. Kc1 Be3+ 25. Kd1 Rf1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "247"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "248"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. d5 Ne5 4. e4 Nxe4 5. Qd4 Nxf2 6. Qxf2 Ng4 7. Qg3 d6 8. Be2 Ne5 9. Nf3 Nxf3+ 10. Bxf3 e5 11. dxe6 Qe7 12. O-O Qxe6 13. Re1 Rb8 14. Nc3 Rg8 15. Bg5 Be7 16. Nd5 Bxg5 17. Nxc7+ Kf8 18. Nxe6+ Bxe6 19. Qxd6+ Be7 20. Qxb8+ Bd8 21. Qxd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "249"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. Nf3 Nc6 6. d5 Rg8 7. Nc3 Rh8 8. dxe6 dxe6 9. Qe2 Nd4 10. Nxd4 Qxd4 11. g3 Bd7 12. Bg2 Bc6 13. Bxc6+ bxc6 14. Be3 Qxe5 15. Qf3 Qd6 16. Rd1 Qb4 17. Qxc6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "250"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 f5 5. Nc5 e5 6. exd4 e4 7. Qe2 Qe7 8. Ng1 Nxd4 9. Qh5+ g6 10. Bb5+ Nxb5 11. Qe2 Nd4 12. Qc4 Qxc5 13. Qa4+ Bd7 14. Qa3 Nxc2+ 15. Kf1 Qb5+ 16. Ne2 Bxa3 17. Rb1 Nd4 18. d3 Qxd3 19. g4 Qxe2+ 20. Kg1 Qxg4+ 21. Kf1 Bb5+ 22. Ke1 Qe2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "251"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. b7 Rb8 14. Bxd2 Rxb7 15. a4 e6 16. dxe6 fxe6 17. Qh3 e5 18. Nf3 e4 19. Ng5 Qf6 20. Nxe4 Qxb2 21. Qe6+ Kd8 22. Bg5+ Kc8 23. Qe8+ Kc7 24. Qd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "252"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nc6 9. Qh5+ g6 10. Qf3 Qe7 11. Be2 Bg7 12. O-O Nf6 13. Bd2 Ne4 14. Rfd1 Be6 15. Qf4 O-O-O 16. Be1 g5 17. Qf3 h5 18. Rac1 g4 19. Qf4 Bh6 20. Bb4 Nxb4 21. Qe5 Nc6 22. Qb5 a6 23. Qa4 h4 24. Bxg4 Kb8 25. Bf3 Bc8 26. Qc4 h3 27. gxh3 Rdf8 28. Qd5 Qh4 29. Qc4 Qxh3 30. Bxe4 Rfg8+ 31. Kh1 Qxh2+ 32. Kxh2 Bf4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "253"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. Nf3 Nc6 3. c4 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bd3 Nc5 11. Bb5 a6 12. Bxc6+ bxc6 13. Be3 Nd3+ 14. Ke2 O-O-O 15. Nc3 Nxb2 16. Rab1 Nc4 17. Ne4 e5 18. Rhc1 Nxe3 19. fxe3 Rd5 20. Rxc6 Ra5 21. Rbc1 Rxa2+ 22. Kf1 Kb8 23. Rxc7 Ra4 24. Nxe5 Rxe4 25. Nd7+ Ka8 26. Rc8+ Kb7 27. R1c7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "254"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 Bxc3+ 9. Bd2 exd4 10. Bxc3 Qxc3+ 11. Qd2 Qxa1+ 12. Qd1 Qc3+ 13. Qd2 Qa1+ 14. Qd1 Qxd1+ 15. Kxd1 Nc6 16. e4 dxe3 17. fxe3 Be6 18. a3 O-O-O+ 19. Bd3 Ne5 20. Ke2 Nf6 21. e4 Bc4 22. Bxc4 Nxc4 23. Rf1 Rd2+ 24. Ke1 Re8 25. Rf5 Rxe4+ 26. Kf1 Ng4 27. Kg1 Rd1+ 28. Rf1 Rxf1+ 29. Kxf1 Nd2+ 30. Kg1 Re1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "255"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Bd2 e4 13. Nd4 c5 14. Ne6 c4 15. Nxc7+ Kd8 16. Nxa8 e5 17. Ne3 Be7 18. Bc3 Kd7 19. Nc7 Kxc7 20. Bxe5 Kb8 21. O-O Rc8 22. Rad1 Rc6 23. Rfe1 Bf8 24. Nf5 Kc7 25. Rxe4 c3 26. bxc3 Ra6 27. Nxd6 Bxd6 28. Rxd6 Rxd6 29. Rd4 Kb8 30. Rxd6 g5 31. Rd7+ Ka8 32. Rxh7 g4 33. c4 a6 34. c5 a5 35. c6 a4 36. Bd4 Kb8 37. Bb6 a3 38. Rh8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "256"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. Nf3 Nf6 2. c4 d5 3. cxd5 Qd7 4. d4 Na6 5. e4 Nxe4 6. Ne5 Qxd5 7. Bc4 Qa5+ 8. Bd2 Nxd2 9. Bxf7+ Kd8 10. Nxd2 Nb4 11. O-O Bf5 12. Qb3 Kc8 13. Be6+ Bxe6 14. Qxe6+ Kb8 15. Nd7+ Kc8 16. Nb6+ Kb8 17. Qc8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "257"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qg6 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 dxe3 11. Qxe3+ Nge7 12. Ne4 O-O 13. d4 Nd5 14. Bc4 Be6 15. Bxd5 Bxd5 16. Nc5 Nb4 17. Kf1 Qxg2+ 18. Ke2 Rxf2+ 19. Qxf2 Re8+ 20. Ne4 Rxe4+ 21. Kd2 Qxf2+ 22. Kc3 Qxd4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "258"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 Bxc3+ 9. Bd2 exd4 10. Bxc3 Qxc3+ 11. Qd2 Qxa1+ 12. Qd1 Qc3+ 13. Qd2 Qa1+ 14. Qd1 Qxd1+ 15. Kxd1 Nc6 16. e4 dxe3 17. fxe3 Be6 18. a3 O-O-O+ 19. Bd3 Nf6 20. Kc1 Ne5 21. Rd1 Nd5 22. e4 Nc3 23. Rd2 Rd6 24. h3 Rb6 25. Rf2 Rd8 26. Rf4 Nc4 27. Rxf7 Rb1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "259"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. Bf4 Bb4 5. a3 Bxc3+ 6. bxc3 c5 7. dxc5 Qa5 8. Qd4 Nc6 9. Qe3 Ng4 10. Qd3 e5 11. Be3 e4 12. Qxd5 Qxc3+ 13. Kd1 Qxa1+ 14. Bc1 Nxf2+ 15. Kd2 Be6 16. Bb2 Qd1+ 17. Ke3 Ng4+ 18. Kxe4 Qxd5+ 19. Kf4 Qxc5 20. Bxg7 Rg8 21. Bb2 Qe3+ 22. Kg3 Nge5+ 23. Kh4 Qh6# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "260"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. O-O Kb8 13. Re1 c5 14. Bg5 Nxg5 15. Nxg5 e5 16. Nf7 Rxd1 17. Raxd1 Rg8 18. Rd8+ Kb7 19. Re8 e4 20. Kf1 e6 21. Rxe4 h6 22. Nd8+ Kb8 23. Nc6+ Kb7 24. R4xe6 c4 25. Na5# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "261"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nc6 9. Qh5+ g6 10. Qf3 Nf6 11. Be2 Bg7 12. O-O Qe7 13. Bd2 Ne4 14. Rfd1 Be6 15. Qf4 O-O-O 16. Be1 Kb8 17. Bf3 Bc8 18. Rac1 g5 19. Bb4 Nxb4 20. Bxe4 gxf4 21. Nxb4 fxe3 22. Rxd8 Rxd8 23. Bxb7 exf2+ 24. Kxf2 Rd2+ 25. Kg1 Bxb7 26. Nd3 Rxg2+ 27. Kh1 Rg4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "262"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. Nf3 Nc6 3. d5 Nb4 4. a3 Nbxd5 5. c4 Nb6 6. c5 Nbd5 7. e4 e6 8. exd5 Nxd5 9. Qc2 Qe7 10. Be2 Qxc5 11. Nc3 Nxc3 12. bxc3 d5 13. O-O Bd6 14. Be3 Qc6 15. Qb2 O-O 16. Bb5 Bxh2+ 17. Nxh2 Qd6 18. Qb4 Qxb4 19. axb4 c6 20. Be2 a6 21. Rfe1 e5 22. Bd1 Be6 23. Bb6 e4 24. Nf1 Rfe8 25. Ne3 Rac8 26. Be2 Rb8 27. Bd4 Rbd8 28. g3 h6 29. Bb6 Rc8 30. Bh5 Rb8 31. Bd4 Rbd8 32. Kh2 Rf8 33. Ng2 g6 34. Be2 Rfe8 35. Nf4 g5 36. Nh5 Bf5 37. Nf6+ Kf8 38. Nh5 Kg8 39. Nf6+ Kf8 40. Nxe8 Rxe8 41. Bh5 Kg8 42. f3 Rd8 43. Bb6 Re8 44. fxe4 dxe4 45. Kg1 g4 46. Rf1 Be6 47. Rae1 Bc4 48. Rf5 c5 49. bxc5 e3 50. Rf4 Bd5 51. c6 Bxc6 52. Bxf7+ Kh8 53. Bd4+ Kh7 54. Rxg4 Rf8 55. Rg7+ Kh8 56. Rg8+ Kh7 57. Rxf8 e2 58. Rh8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "263"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Be3 Kb8 13. Ne5 c5 14. Nf7 Rxd1+ 15. Rxd1 Rg8 16. f3 Nd6 17. Ng5 Nc4 18. Bxc5 Nxb2 19. Rd8+ Kb7 20. O-O e5 21. Rb1 Kc6 22. Rc1 Kb7 23. Rb1 Kc6 24. Bf2 Nc4 25. Rc1 Kb5 26. Rb8+ Nb6 27. Rxc7 Ka6 28. Ne6 Nd5 29. Rxa7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "264"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Nf3 d6 7. b4 Ncd7 8. e6 fxe6 9. Ng5 exd5 10. Ne6 Nc6 11. Nxd8 Kxd8 12. cxd5 Nxb4 13. Be3 Ne5 14. Qd2 a5 15. Be2 e6 16. dxe6 Bxe6 17. O-O Nc4 18. Bxc4 Bxc4 19. Rd1 d5 20. Na3 Bd3 21. Qc3 Be2 22. Bf4 Bxd1 23. Qxc7+ Ke8 24. Rxd1 Ra7 25. Re1+ Be7 26. Qxe7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "265"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Be3 e5 11. Bb5 e6 12. Nxe5 Bb4+ 13. Ke2 O-O 14. Bxc6 bxc6 15. Rc1 c5 16. f3 Rf5 17. Nc6 Nd6 18. a3 Bxa3 19. bxa3 Nb7 20. Nf2 Rd5 21. Ne4 e5 22. Ne7+ Kh8 23. Nxd5 c6 24. Ne7 Re8 25. Nxc6 Kg8 26. Rb1 Nd8 27. Rb8 Nf7 28. Rxe8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "266"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qh5 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Ne7 10. e4 dxe3 11. Qxe3 Nc6 12. Ne6 Bxe6 13. Qxe6 Nd4 14. Qc4 O-O-O 15. Rd1 Rhe8 16. Qc3 Nef5+ 17. Kd2 Qg5+ 18. f4 Qxf4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "267"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bd3 Nc5 11. Bb5 a6 12. Bxc6+ bxc6 13. Be3 Nd3+ 14. Ke2 O-O-O 15. Nc3 Nxb2 16. Rab1 Nc4 17. Rhc1 e5 18. Ne4 Nxe3 19. fxe3 Rd5 20. Rxc6 Ra5 21. Rb2 Ra4 22. Nfd2 Rg8 23. Rbc2 Kb8 24. Nc5 Rg4 25. Rb2+ Ka8 26. Rxa6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "268"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 Nf6 5. Bf4 Nbd7 6. e3 e5 7. e4 Bc5 8. Nf5 exf4 9. exd5 O-O 10. Bc4 Nb6 11. Bd3 Re8+ 12. Kf1 Nbxd5 13. Nxd5 Qxd5 14. c4 Qe5 15. Qc2 Bxf5 16. Bxf5 g6 17. Bd3 Rad8 18. Kg1 Ng4 19. Rf1 Nxf2 20. Rxf2 Qe1+ 21. Bf1 Rd2 22. Qxd2 Qxd2 23. Be2 Qe1+ 24. Bf1 Qxf2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "269"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 f5 5. Nc5 e5 6. exd4 e4 7. Qe2 Qe7 8. Ng1 Nxd4 9. Qh5+ g6 10. Bb5+ Nxb5 11. Qe2 Qxc5 12. Nf3 Be7 13. Ng1 Nd4 14. Qe3 Nxc2+ 15. Kf1 Nxe3+ 16. dxe3 Qc2 17. Ke1 Bb4+ 18. Bd2 Qxd2+ 19. Kf1 Qxb2 20. Rd1 Qc2 21. Rd4 Qb1+ 22. Ke2 Qe1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "270"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Nxe5 c5 13. b3 Nf7 14. Nxf7 Kxf7 15. Bb2 Kg8 16. O-O e6 17. Ne3 Bd6 18. Nc4 Rd8 19. Rae1 Re8 20. Re4 h6 21. Rg4 e5 22. Re4 Rd8 23. Rfe1 Re8 24. f4 Rd8 25. fxe5 Be7 26. e6 Re8 27. Rg4 Bg5 28. h4 Be7 29. Rxg7+ Kf8 30. Rf1+ Bf6 31. Rf7+ Kg8 32. R1xf6 Rxe6 33. Rf4 Re1+ 34. Kh2 Rh7 35. Rf8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "271"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 e5 7. Bb5 Nf6 8. Bxc6+ bxc6 9. Nxf6+ gxf6 10. e4 Rg8 11. Rg1 Rg4 12. Nd2 Bc5 13. Ke2 f5 14. h3 Ba6+ 15. Ke1 Rf4 16. exf5 Bxf2+ 17. Kd1 Bxg1 18. Nf3 O-O-O+ 19. Ke1 Re4+ 20. Be3 Rxe3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "272"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 Bxc3+ 9. Bd2 exd4 10. Bxc3 Qxc3+ 11. Qd2 Qxa1+ 12. Qd1 Qxd1+ 13. Kxd1 Nc6 14. e4 dxe3 15. fxe3 Be6 16. a3 O-O-O+ 17. Bd3 Ne5 18. Ke2 Nf6 19. e4 Bc4 20. Bxc4 Nxc4 21. Rf1 Rd2+ 22. Ke1 Re8 23. Rf5 Rxe4+ 24. Kf1 Ng4 25. Kg1 Rd1+ 26. Rf1 Rxf1+ 27. Kxf1 Nd2+ 28. Kg1 Re1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "273"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Bd6 9. Qh5+ g6 10. Qf3 Nf6 11. Be2 Nc6 12. O-O Ne4 13. Re1 Ng5 14. Qd5 Bxh2+ 15. Kxh2 Qxd5 16. Nf4 Qc5 17. Bd3 Ne4 18. f3 Qe7 19. fxe4 Qh4+ 20. Kg1 Qxe1+ 21. Kh2 Ne5 22. Nd5 Ng4+ 23. Kh3 g5 24. Nxc7+ Kd8 25. Ne6+ Bxe6 26. Ba6 Qh4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "274"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 Bxc3+ 9. Bd2 exd4 10. Bxc3 Qxc3+ 11. Qd2 Qxa1+ 12. Qd1 Qxd1+ 13. Kxd1 Nc6 14. e4 dxe3 15. fxe3 Be6 16. a3 O-O-O+ 17. Bd3 Ne5 18. Ke2 Nf6 19. e4 Bc4 20. Bxc4 Nxc4 21. Rf1 Rd2+ 22. Ke1 Re8 23. Rf5 Rxe4+ 24. Kf1 Ng4 25. Kg1 Rd1+ 26. Rf1 Rxf1+ 27. Kxf1 Nd2+ 28. Kg1 Re1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "275"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Be3 Kb8 13. Ne5 c5 14. Nc6+ Kc8 15. Nxd8 Kxd8 16. f3 Nd6 17. Bxc5 a6 18. Bd4 Nf5 19. Be5 Kc8 20. Rc1 Nd6 21. h4 Kb8 22. O-O Rg8 23. Nf2 g5 24. h5 Bg7 25. Bxg7 Rxg7 26. g4 e5 27. Nd3 Nf7 28. Nc5 a5 29. Nd7+ Kb7 30. Nc5+ Kb8 31. Na6+ Ka8 32. Nxc7+ Kb8 33. Ne6 Rg8 34. Rc5 a4 35. Re1 Re8 36. Re4 h6 37. Rb4+ Ka8 38. Ra5# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "276"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 Nf6 5. Bf4 Nbd7 6. e3 e5 7. e4 exf4 8. Nxd5 Bc5 9. Qd3 Nxd5 10. exd5 O-O 11. O-O-O Nf6 12. c4 Re8 13. Kb1 Ng4 14. Qf3 Qf6 15. Qd3 Nxf2 16. Qf3 Bxd4 17. Rxd4 Re1+ 18. Rd1 Nxd1 19. Qb3 Ne3+ 20. Qd1 Rxd1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "277"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 c5 4. dxc5 Nc6 5. Bg5 d4 6. Bxf6 exf6 7. Ne4 Bf5 8. Nfd2 Qd5 9. c4 Qe5 10. f4 Qe6 11. Qb1 O-O-O 12. Qd3 Re8 13. e3 Nb4 14. Qb3 dxe3 15. Qxb4 exd2+ 16. Kxd2 Qxe4 17. Rc1 Qd4+ 18. Bd3 Qxd3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "278"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nc6 9. Qh5+ g6 10. Qf3 Nf6 11. Be2 Ne4 12. O-O Qe7 13. Re1 Bd7 14. Qf4 O-O-O 15. Bf3 g5 16. Bxe4 fxe4 17. Qg3 h5 18. Bd2 h4 19. Bb4 Qh7 20. Qxg5 exd3 21. Bxf8 Rdxf8 22. cxd3 Kb8 23. e4 h3 24. gxh3 Qxh3 25. Qg3 Rfg8 26. Qxg8+ Rxg8+ 27. Kh1 Qf3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "279"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 Nf6 5. Bf4 Nbd7 6. e3 e5 7. e4 exf4 8. Nxd5 Nxd5 9. exd5 Be7 10. Qg4 O-O 11. Qxf4 Nc5 12. Bc4 Bd6 13. Qf3 Qh4 14. O-O-O Bg4 15. g3 Bxf3 16. gxh4 Bxh1 17. Rxh1 Ne4 18. f3 Bf4+ 19. Kb1 Nd2+ 20. Ka1 Nxc4 21. Kb1 Nd2+ 22. Ka1 Rad8 23. Ne2 Be5 24. f4 Bf6 25. f5 Rxd5 26. Rd1 Nb3+ 27. axb3 Rxd1+ 28. Ka2 Rd2 29. Nf4 Rxc2 30. Nd3 Rd8 31. Kb1 Rxh2 32. Nc5 Rd1+ 33. Ka2 Bxb2 34. b4 Ra1+ 35. Kb3 b5 36. Nd7 Ra3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "280"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nf3 Nc6 4. d4 d6 5. c4 Nb6 6. e6 Bxe6 7. d5 Qd7 8. dxe6 Qxe6+ 9. Be2 Nxc4 10. O-O d5 11. Nc3 Rd8 12. Re1 N6e5 13. Bf4 Nxb2 14. Qc2 Nxf3+ 15. Bxf3 Qf6 16. Bxc7 Rc8 17. Nxd5 Qd4 18. Qb3 Nd3 19. Qb5# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "281"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qh5 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 dxe3 11. Qxe3+ Nge7 12. Ne6 Bxe6 13. Qxe6 Nd4 14. Qc4 O-O-O 15. Rd1 Rhe8 16. Qc3 Nef5+ 17. Kd2 Qg5+ 18. f4 Qxf4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "282"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Nxe5 c5 13. Be3 Ne4 14. Nf3 e6 15. Rc1 Bd6 16. Nd2 Nxd2 17. Kxd2 O-O-O 18. Kc2 Kb8 19. Kb1 c4 20. Rxc4 Bxh2 21. Rb4+ Ka8 22. Ra4 Bd6 23. Rxa7+ Kb8 24. Ra4 e5 25. Nc3 Rde8 26. Rc4 Rd8 27. a4 Rde8 28. Nb5 Rd8 29. Rhc1 Rd7 30. R1c3 Rc8 31. Nxd6 Rxd6 32. Rb4+ Ka8 33. Rc5 Rd1+ 34. Ka2 Rg1 35. Ra5# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "283"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. d5 Ne5 4. e4 Nxe4 5. Qd4 Nxf2 6. Qxf2 Ng4 7. Qg3 d6 8. Be2 Ne5 9. Nf3 Nxf3+ 10. Bxf3 e5 11. dxe6 Qe7 12. O-O Qxe6 13. Re1 Rb8 14. Nc3 Rg8 15. Bg5 Be7 16. Nd5 Bxg5 17. Qxg5 Kf8 18. Qd8+ Qe8 19. Rxe8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "284"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Nxe5 c5 13. b3 Nf7 14. Nc4 e5 15. O-O Bd6 16. Nde3 O-O 17. Bb2 Rfe8 18. Bc3 Rad8 19. Ba5 Re7 20. Rfe1 e4 21. Red1 Ne5 22. Nxe5 Rxe5 23. Rxd6 Rxd6 24. Bxc7 Rde6 25. Bxe5 Rxe5 26. Rc1 Rg5 27. Rd1 Rg6 28. Rd8+ Kf7 29. Rd7+ Kg8 30. Rxa7 Rf6 31. Kf1 Rf8 32. Ra4 Re8 33. Ke2 h6 34. Kf1 Re7 35. Ra5 Rc7 36. Ke2 Rc8 37. a4 Rb8 38. Rb5 Rxb5 39. axb5 h5 40. Kd2 h4 41. b6 Kh8 42. Kc3 Kg8 43. Kc4 Kh8 44. b7 Kg8 45. Kxc5 h3 46. gxh3 Kh8 47. b8=Q+ Kh7 48. Qe8 g5 49. Qf7+ Kh8 50. Nf5 g4 51. Qg7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "285"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 Be6 6. Nxe5 d4 7. Nb5 Qa5+ 8. Qd2 Qxb5 9. Qxd4 Nc6 10. Nxc6 Qxc6 11. Qc3 Qxc3+ 12. bxc3 Bc5 13. Be3 Bxe3 14. fxe3 Nf6 15. Rb1 Bxa2 16. Rxb7 Bd5 17. Rc7 Ne4 18. c4 Rb8 19. Re7+ Kxe7 20. Rg1 Rb1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "286"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Nxe5 c5 13. Be3 Ne4 14. Rc1 e6 15. Ke2 Bd6 16. Nd3 O-O 17. Nc3 Nxc3+ 18. Rxc3 e5 19. Nxc5 Rfb8 20. Rc2 Bxc5 21. Bxc5 Re8 22. Ba3 Rac8 23. Rhc1 c6 24. Bc5 Ra8 25. Ba3 Rad8 26. Rxc6 Rb8 27. b3 Rbd8 28. Bc5 Ra8 29. Rc7 a6 30. Be3 Rad8 31. g3 e4 32. R7c5 h6 33. Rb1 Rc8 34. Rbc1 Rxc5 35. Rxc5 Rd8 36. Rc4 Re8 37. h4 Re7 38. Kd1 Re8 39. Kc2 Re7 40. Rc6 a5 41. Rc8+ Kh7 42. Rc6 Kg8 43. Rc5 Ra7 44. Rc8+ Kh7 45. Bxa7 h5 46. Be3 g6 47. Rc5 Kg8 48. Rxa5 Kh8 49. b4 Kg8 50. a4 Kh8 51. Rc5 Kg8 52. Rc7 Kh8 53. b5 Kg8 54. b6 Kh8 55. b7 Kg8 56. b8=Q# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "287"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qg6 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 dxe3 11. Qxe3+ Nge7 12. Ne4 Nf5 13. Qf4 O-O 14. Qxc7 Rf7 15. Qf4 Nfd4 16. Qd2 Bg4 17. Qc3 Re8 18. Qc5 Rxe4+ 19. dxe4 Qxe4+ 20. Kd2 Rxf2+ 21. Be2 Rxe2+ 22. Kc1 Rxc2+ 23. Kb1 Rxc5# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "288"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. Nf3 Nf6 2. d4 Nc6 3. d5 Nb4 4. a3 Nbxd5 5. c4 Nb6 6. c5 Nbd5 7. e4 e6 8. exd5 Nxd5 9. Qc2 Qe7 10. Bd2 Qxc5 11. Nc3 Bd6 12. b4 Qc6 13. Bd3 Kf8 14. O-O Kg8 15. Bb5 Qb6 16. Nxd5 exd5 17. Rae1 Qxb5 18. Re8+ Bf8 19. Qxc7 Qc6 20. Rxf8+ Kxf8 21. Qd8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "289"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "290"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "1/2-1/2"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qh5 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 h6 11. Nf3 Bg4 12. Qf4 O-O-O 13. O-O-O Nf6 14. Kb1 Kb8 15. Be2 Qc5 16. Nxd4 Nxd4 17. Bxg4 Qxc2+ 18. Ka1 Rd6 19. e5 Nb3+ 20. axb3 Ra6+ 21. Qa4 Rxa4+ 22. bxa4 Qxa4+ 23. Kb1 Nd5 24. d4 Nb4 25. Bf3 Qa2+ 26. Kc1 Qc4+ 27. Kb1 Qc2+ 28. Ka1 Qb3 29. Kb1 Qc2+ 30. Ka1 Qb3 31. Kb1 1/2-1/2
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "291"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qg6 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 dxe3 11. Qxe3+ Nge7 12. Ne4 O-O 13. d4 Nd5 14. Bc4 Be6 15. Bxd5 Bxd5 16. Nc5 Nb4 17. Kf1 Qxg2+ 18. Ke2 Rxf2+ 19. Qxf2 Re8+ 20. Ne4 Rxe4+ 21. Kd2 Qxf2+ 22. Kc3 Qxd4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "292"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "293"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. Qh3 Ke7 16. Nf3 Nf6 17. dxe6 a6 18. Bd3 Qxb2 19. O-O Qb3 20. Rfe1 Qxd3 21. exf7+ Kxf7 22. Ng5+ Kg8 23. Qe6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "294"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Be3 Kb8 13. Ne5 c5 14. Nf7 Rxd1+ 15. Rxd1 Rg8 16. Nd8 e5 17. Ne6 c4 18. Rd7 c3 19. bxc3 Nxc3 20. Kd2 Ne4+ 21. Kc2 Rh8 22. Rb1+ Kc8 23. Rxc7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "295"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. b4 Ne4 7. Qf3 f5 8. Qxf5 Na6 9. Qxe4 Nxb4 10. a3 Na6 11. Nf3 Nc5 12. Qc2 d6 13. e6 Rb8 14. Nbd2 Ra8 15. Bb2 Rb8 16. Ng5 h6 17. Qg6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "296"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. b4 Ne4 7. Qc2 f5 8. f3 Nf6 9. exf6 exf6 10. Bd2 Na6 11. a3 d6 12. Bd3 Qe7+ 13. Ne2 Qe5 14. Ra2 c5 15. dxc6 bxc6 16. Bc3 Qe6 17. Qd2 d5 18. cxd5 cxd5 19. O-O Nc7 20. Bd4 Bd6 21. Nbc3 O-O 22. Na4 Bb7 23. Nc5 Bxc5 24. Bxc5 Rfe8 25. Bf2 Bc6 26. Nd4 Qd6 27. a4 g6 28. b5 Bb7 29. a5 Ne6 30. Nxe6 Qxe6 31. a6 Bc8 32. Rc1 Bd7 33. Bf1 Rec8 34. Rxc8+ Bxc8 35. Ra1 Bd7 36. Rb1 g5 37. Qb2 g4 38. fxg4 fxg4 39. Rd1 f5 40. Qd2 f4 41. b6 g3 42. hxg3 fxg3 43. Qg5+ Kh8 44. Bd4+ Qf6 45. Bxf6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "297"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nf6 9. Ne5 Qd6 10. Bb5+ c6 11. Nc4 Qe6 12. Na5 Bb4+ 13. Kf1 Bxa5 14. Bd3 O-O 15. Kg1 Qe7 16. Bxf5 Bxf5 17. Qxf5 Bb6 18. Bd2 Na6 19. Ba5 Rfe8 20. Bxb6 axb6 21. Re1 Rad8 22. Qf4 Qe6 23. a3 Nc5 24. Qf3 h6 25. Qf4 b5 26. Qf3 Qd6 27. Qf5 Qf8 28. Qf4 Nce4 29. Qc7 Nd5 30. Qg3 Qf6 31. Qf3 Qxb2 32. Qe2 Ndf6 33. f3 Nc5 34. e4 Ne6 35. e5 Nd5 36. Qd3 Ndf4 37. Qb3 Qd4+ 38. Qe3 Qxe3+ 39. Rxe3 Rd1+ 40. Re1 Rxe1+ 41. Kf2 Re2+ 42. Kg1 Rd8 43. h3 Rxg2+ 44. Kf1 Rd1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "298"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Be3 Kb8 13. Nc3 Nxc3 14. bxc3 Rd3 15. Rb1+ Ka8 16. Nd4 Rxc3 17. O-O e5 18. Ne6 Rc2 19. Nxc7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "299"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Bd2 e4 13. Nd4 c5 14. Ne6 c4 15. Nxc7+ Kd8 16. Nxa8 e5 17. Ne3 Be7 18. Rd1 Kd7 19. Bc3 Rxa8 20. Bxe5 Rc8 21. Bxg7 Rg8 22. Bc3 Kc8 23. a4 Kb8 24. O-O Re8 25. Be5 Rd8 26. Nxc4 Kc7 27. Rd4 h6 28. Nxd6 Bxd6 29. Rc1+ Kb8 30. Bxd6+ Ka8 31. Rc7 Kb8 32. Rb4+ Ka8 33. Rd7 Rxd7 34. Rb8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "300"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qg6 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 h6 10. Ne4 Nf6 11. Nxf6+ Qxf6 12. e4 Rf8 13. Rd1 Nc6 14. Qe2 Bd7 15. Qh5+ g6 16. Qe2 O-O-O 17. Qd2 g5 18. Qe2 Ne5 19. Qd2 h5 20. c3 dxc3 21. bxc3 Bg4 22. f3 Bxf3 23. gxf3 Nxf3+ 24. Ke2 Ng1+ 25. Ke3 Qf3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "301"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 e6 4. Bf4 a6 5. e3 c5 6. Bd3 c4 7. Be2 Bb4 8. a3 Bxc3+ 9. bxc3 Ne4 10. O-O O-O 11. Qe1 f6 12. Rd1 Nc6 13. Bg3 Bd7 14. Bf4 Qa5 15. Rb1 b5 16. Ra1 Qxc3 17. Qxc3 Nxc3 18. Rfe1 Rfc8 19. Bd6 Ne4 20. Bf4 g5 21. Bg3 Be8 22. Rad1 Bg6 23. Rc1 h5 24. Red1 h4 25. Nxh4 gxh4 26. Bxh4 Nc3 27. Re1 Kf7 28. Bg3 a5 29. Bg4 b4 30. axb4 axb4 31. Bd6 Ne4 32. Bf4 Nc3 33. Bd6 Rd8 34. Bc7 Rd7 35. Bf4 Rb7 36. Bf3 Be4 37. Bxe4 dxe4 38. Ra1 Rxa1 39. Rxa1 b3 40. Ra6 bxc2 41. Ra1 Rb1+ 42. Rxb1 cxb1=Q# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "302"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "303"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 c5 3. d4 Nf6 4. dxc5 Nc6 5. Bg5 d4 6. Bxf6 exf6 7. Ne4 Bf5 8. Nfd2 Qd5 9. c4 Qe5 10. f4 Qe6 11. Qb1 O-O-O 12. Qd3 Re8 13. e3 Nb4 14. Qb3 dxe3 15. Qxb4 exd2+ 16. Kxd2 Qxe4 17. Rc1 Qd4+ 18. Bd3 Qxd3# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "304"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. Qh3 Ke7 16. dxe6 fxe6 17. Nf3 a6 18. Bd3 Qxb2 19. O-O Ne5 20. Nxe5 dxe5 21. Bg5+ Kf7 22. Rab1 Qd4 23. Rb7+ Kg8 24. Qxe6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "305"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nf6 9. Ne5 Qd6 10. Bb5+ c6 11. Nc4 Qe6 12. Na5 Bb4+ 13. Kf1 Bxa5 14. Bd3 O-O 15. Kg1 Ne4 16. Bxe4 Qxe4 17. Qxe4 fxe4 18. Rb1 Rd8 19. f3 Rd1+ 20. Kf2 Rxh1 21. fxe4 Nd7 22. h3 Be1+ 23. Ke2 Bh4 24. Kd2 Nc5 25. e5 Ne4+ 26. Ke2 Bf5 27. Ra1 Rd8 28. Rb1 Ng3+ 29. Kf3 Rf1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "306"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. d4 e6 4. Bf4 Bb4 5. a3 Bxc3+ 6. bxc3 c5 7. dxc5 Qa5 8. Qd4 Nc6 9. Qe3 Ng4 10. Qd3 e5 11. Be3 e4 12. Qxd5 Qxc3+ 13. Kd1 Qxa1+ 14. Bc1 Nxf2+ 15. Kd2 Be6 16. Bb2 Qd1+ 17. Ke3 Ng4+ 18. Kxe4 Qxd5+ 19. Kf4 Qxc5 20. Bxg7 Rg8 21. Bb2 Qe3+ 22. Kg3 Nge5+ 23. Kh4 Qh6# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "307"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. d4 e6 4. Bf4 Bb4 5. a3 Bxc3+ 6. bxc3 c5 7. dxc5 Ne4 8. Qd4 O-O 9. e3 Nc6 10. Qd3 Qf6 11. Bd6 Rd8 12. O-O-O Nxf2 13. Qb5 Nxh1 14. Bc7 Rd7 15. Ba5 Nf2 16. Re1 Qe7 17. Nd4 Nxa5 18. Qxa5 Rc7 19. Nb3 e5 20. c4 Be6 21. cxd5 Bxd5 22. c4 Bc6 23. Kb1 Rcc8 24. Nd2 b6 25. cxb6 axb6 26. Qxb6 Qxa3 27. e4 Qa1+ 28. Kc2 Ra2+ 29. Kb3 Qb2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "308"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. b4 Ne4 7. Qc2 f5 8. f3 Nf6 9. exf6 exf6 10. Bd2 Na6 11. a3 d6 12. Bd3 Qe7+ 13. Ne2 Qe5 14. Nc3 Be7 15. O-O O-O 16. Rae1 Bd7 17. f4 Nxb4 18. axb4 Ba4 19. Qxa4 b5 20. Qxb5 a6 21. Qc6 Qxe2 22. Rxe2 Rae8 23. Qd7 Bd8 24. Rxe8 Rxe8 25. Qxe8# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "309"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nf6 9. Ne5 Qd6 10. Bb5+ c6 11. Nc4 Qe6 12. Na5 Bb4+ 13. Kf1 Bxa5 14. Bd3 O-O 15. Kg1 Qe7 16. Bxf5 Bxf5 17. Qxf5 Bb6 18. Bd2 Nbd7 19. Bc3 Ne4 20. Qg4 Nxf2 21. Qc4+ Kh8 22. Bb4 Nh3+ 23. gxh3 Qxe3+ 24. Kg2 Qf2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "310"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 Bxc3+ 9. Bd2 exd4 10. Bxc3 Qxc3+ 11. Qd2 Qxa1+ 12. Qd1 Qxd1+ 13. Kxd1 Nc6 14. e4 dxe3 15. fxe3 Be6 16. a3 O-O-O+ 17. Bd3 Ne5 18. Ke2 Nf6 19. e4 Rd4 20. Ke3 Rhd8 21. Rc1 Kb8 22. Re1 Nfg4+ 23. Ke2 Nxd3 24. cxd3 Rxd3 25. h3 Re3+ 26. Kf1 Bc4+ 27. Kg1 Rxe1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "311"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qh5 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 dxe3 11. Qxe3+ Nge7 12. Ne6 Bxe6 13. Qxe6 Nd4 14. Qc4 O-O-O 15. Rd1 Rhe8 16. Qc3 Nd5+ 17. Kd2 Qg5+ 18. f4 Qxf4# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "312"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Bd2 e4 13. Nd4 c5 14. Ne6 c4 15. Nxc7+ Kd8 16. Nxa8 e5 17. Ne3 Be7 18. Bb4 Kd7 19. O-O-O Rxa8 20. Nf5 Bg5+ 21. Kc2 Rf8 22. Rxd6+ Kc8 23. Rc6+ Kd7 24. Bxf8 Kxc6 25. Bxg7 Bf4 26. h4 Kb7 27. Kc3 Kb8 28. g3 Bxg3 29. Nxg3 e3 30. fxe3 h6 31. Bxe5+ Ka8 32. h5 Kb7 33. Kxc4 Ka8 34. Rd1 Kb7 35. Ne4 Ka8 36. Nc5 a5 37. Rd6 Kb8 38. Rxh6+ Ka8 39. Ra6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "313"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 Nc6 4. e3 dxe3 5. dxe3 Qxd1+ 6. Kxd1 e5 7. Bb5 Bd7 8. Bxc6 Bxc6 9. Nc3 f6 10. e4 O-O-O+ 11. Bd2 Bb4 12. Re1 Bxc3 13. bxc3 Nh6 14. Kc1 Ng4 15. Re2 Bb5 16. c4 Bxc4 17. Re1 Nxf2 18. Kb1 Bb5 19. Bc3 Rd1+ 20. Rxd1 Nxd1 21. Bd2 Nf2 22. a4 Bc6 23. Be3 Nxe4 24. Bxa7 Kd7 25. Be3 h5 26. a5 h4 27. a6 bxa6 28. Rxa6 h3 29. gxh3 Nc3+ 30. Kb2 Nd1+ 31. Kb1 Nxe3 32. Ng1 Nf5 33. Ra7 Nd6 34. Ra1 Nb5 35. Ra6 Nd4 36. Ra7 Be4 37. Ra2 Nxc2 38. Rxc2 Ke6 39. Kb2 Bxc2 40. Kxc2 Rh4 41. Kb1 Rf4 42. Ne2 Rf1+ 43. Kb2 Rf2 44. Kb1 Rxe2 45. h4 Rxh2 46. h5 Rxh5 47. Kb2 g5 48. Kb1 Rh2 49. Ka1 g4 50. Kb1 g3 51. Ka1 Re2 52. Kb1 g2 53. Kc1 g1=Q# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "314"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Be3 Kb8 13. Nc3 Nxc3 14. bxc3 Rd3 15. Ke2 Rxc3 16. Rhb1+ Ka8 17. Nd4 e5 18. Ne6 Rc2+ 19. Kd1 Rc4 20. Nxc7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "315"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qf6 7. Ne4 Qg6 8. d3 Nf6 9. Bf4 Nxe4 10. dxe4 Nc6 11. Qd3 Bb4+ 12. c3 dxc3 13. bxc3 Qf6 14. Bxc7 Bxc3+ 15. Kd1 Bxa1 16. Bg3 Be6 17. Qb5 O-O-O+ 18. Kc1 Qc3+ 19. Kb1 Rd1# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "316"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 f5 4. Nc5 e5 5. Nd3 e4 6. e3 dxe3 7. dxe3 exf3 8. Qxf3 Nf6 9. Ne5 Qd6 10. Bb5+ c6 11. Nc4 Qe6 12. Na5 Bb4+ 13. Kf1 cxb5 14. Nxb7 O-O 15. Nd6 Qxd6 16. a3 Be6 17. axb4 Ne4 18. c3 Nd7 19. Kg1 Ne5 20. Qe2 Bc4 21. Qc2 Nf3+ 22. gxf3 Qg6# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "317"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Be3 e6 7. Nc3 exd5 8. cxd5 d6 9. Bxc5 dxc5 10. f4 Qh4+ 11. g3 Qe7 12. Qa4+ Bd7 13. Qb3 Bc8 14. O-O-O Nd7 15. Nb5 c6 16. Nc7+ Kd8 17. d6 Qe8 18. Nxe8 Kxe8 19. Nf3 Rg8 20. Ng5 Rh8 21. Qxf7+ Kd8 22. Ne6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "318"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nc6 4. c4 Nb6 5. d5 Nxe5 6. c5 Nbc4 7. Qd4 b5 8. cxb6 c5 9. Qc3 Ba6 10. Nd2 Nxd2 11. Bxa6 d6 12. Bb5+ Nd7 13. Bxd2 Qxb6 14. a4 e6 15. dxe6 fxe6 16. Qh3 d5 17. Nf3 a6 18. Bxd7+ Kxd7 19. Ne5+ Kd8 20. O-O Qxb2 21. Qxe6 Qxd2 22. Qd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "319"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. Nxe5 Qd5 5. Nxf7 Qxf7 6. Ng5 Qd5 7. d3 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 Nc6 10. e4 dxe3 11. Qxe3+ Nge7 12. Qf4 Bf5 13. Qxc7 O-O 14. Qxb7 Qa5+ 15. Kd1 Rab8 16. b4 Qe5 17. d4 Qxd4+ 18. Bd3 Rxb7 19. Ke2 Bxd3+ 20. cxd3 Rxf2+ 21. Ke1 Qe3+ 22. Kd1 Qd2# 0-1
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "320"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ne6 5. d5 Nc5 6. Nf3 d6 7. b4 Ncd7 8. e6 fxe6 9. Ng5 exd5 10. Ne6 Nc6 11. cxd5 Nxb4 12. Nxd8 Kxd8 13. Be2 Ne5 14. O-O e6 15. dxe6 Bxe6 16. Nc3 d5 17. Nb5 Bc5 18. Bf4 Nbc6 19. Rc1 Bb6 20. Rxc6 Nxc6 21. Bg4 Bxg4 22. Qxg4 Rg8 23. Bg5+ Ke8 24. Re1+ Kf8 25. Qf5# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-01-13"]
+[Round "321"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Be3 Kb8 13. Rc1 Rd6 14. Ne5 Kb7 15. h4 Rg8 16. Rc4 Nf6 17. h5 Nd7 18. Nxd7 Rxd7 19. Rb4+ Ka8 20. Ra4 c5 21. Nc3 e5 22. Bxc5 c6 23. Ke2 e6 24. Be3 Bd6 25. Ne4 Rb8 26. b3 Rbb7 27. Rc1 Rbc7 28. h6 gxh6 29. Bxh6 Kb8 30. Be3 Rd8 31. Ng5 Re8 32. Rd1 Bf8 33. Rh1 h6 34. Nf3 Bg7 35. Rc1 Rd8 36. Re4 Rd5 37. Rb4+ Rb7 38. Ra4 Rc7 39. Rg4 Rd8 40. Nd2 h5 41. Rb4+ Rb7 42. Rh4 c5 43. Rxh5 Bf6 44. Ne4 Bg7 45. Nxc5 Re7 46. Rc4 Bf6 47. Ne4 Bg7 48. g3 Ree8 49. Rh1 Rh8 50. Rb4+ Ka8 51. Rxh8 Rxh8 52. Nd2 Rb8 53. Ra4 Rb7 54. g4 Kb8 55. g5 Rf7 56. Ra6 Re7 57. Nc4 e4 58. Ra4 e5 59. Nd6 Rd7 60. Nxe4 Rf7 61. g6 Re7 62. Ra6 Rd7 63. a4 Rb7 64. Nc5 Re7 65. a5 Re8 66. b4 e4 67. b5 Bc3 68. Bf4+ Be5 69. Bxe5+ Rxe5 70. Nd7+ Ka8 71. Nxe5 Kb8 72. g7 e3 73. g8=Q+ Kb7 74. Rd6 exf2 75. Rd7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-03-25"]
+[Round "322"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. a3 d5 4. cxd5 Qxd5 5. e3 e5 6. Nc3 Qe6 7. d5 Qd7 8. dxc6 Qxd1+ 9. Nxd1 bxc6 10. Bd2 Bd6 11. Rc1 Bb7 12. Nf3 e4 13. Nd4 c5 14. Nb3 Nd7 15. Na5 O-O-O 16. Bc3 Nf6 17. Nc4 Kb8 18. g3 Rhe8 19. Be2 Bc6 20. O-O Be7 21. b3 Bd5 22. Ndb2 Be6 23. Na5 Bd6 24. Nbc4 Bd5 25. Rfd1 Be7 26. Ne5 Bd6 27. Nec6+ Bxc6 28. Nxc6+ Kc8 29. b4 Rd7 30. Ba6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-03-25"]
+[Round "323"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nc3 Be6 7. d5 Nxe4 8. dxe6 Qxd1+ 9. Nxd1 fxe6 10. Bd3 Nc5 11. Bb5 a6 12. Bxc6+ bxc6 13. Ke2 O-O-O 14. Nc3 Kb8 15. Ne5 Rd6 16. Be3 Nd7 17. Nxd7+ Rxd7 18. Rhc1 e5 19. Ne4 Kb7 20. Nc5+ Kc8 21. Ne4 Kb7 22. Rc3 e6 23. Rac1 Bd6 24. Rb3+ Ka8 25. Rxc6 Rdd8 26. Rxa6# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-03-25"]
+[Round "324"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 d5 4. Nc3 e5 5. Nf3 d4 6. Bg5 Qa5 7. b4 Bxb4 8. Nxd4 Bxc3+ 9. Bd2 exd4 10. Bxc3 Qxc3+ 11. Qd2 Qxa1+ 12. Qd1 Qxd1+ 13. Kxd1 Nc6 14. e4 dxe3 15. fxe3 Be6 16. a3 O-O-O+ 17. Bd3 Ne5 18. Ke2 Nf6 19. e4 Rhe8 20. Bb5 Bc4+ 21. Bxc4 Nxc4 22. Rf1 Rd2+ 23. Kf3 Rxe4 24. Rf2 Re3+ 25. Kf4 Rxf2+ 26. Kg5 h6+ 27. Kh4 g5# 0-1
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-03-26"]
+[Round "1"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. d5 Nb4 6. Qa4+ c6 7. Qxb4 cxd5 8. Qb5+ Qd7 9. Ne5 Qxb5 10. Nxb5 Be6 11. Nc7+ Kd8 12. Nxa8 Kc8 13. Be3 Kb8 14. g3 Kxa8 15. Bg2 Kb8 16. Rd1 Ne4 17. Bxe4 dxe4 18. Nd7+ Bxd7 19. Rxd7 Kc8 20. Rd4 e5 21. Rxc4+ Kb8 22. O-O f5 23. Rd1 Be7 24. Rd7 Bf6 25. Rcc7 Re8 26. Rxb7+ Ka8 27. Rb5 a6 28. Ra7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-03-26"]
+[Round "1"]
+[White "Stockfish"]
+[Black "sno0p3r"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nc3 d5 4. Nf3 dxc4 5. e4 Be6 6. d5 Nxe4 7. dxe6 Qxd1+ 8. Nxd1 fxe6 9. Bxc4 e5 10. Bd5 Nd6 11. Bxc6+ bxc6 12. Nxe5 c5 13. b3 Nf7 14. Nc4 e5 15. O-O Bd6 16. Bb2 O-O 17. Re1 Rfe8 18. h3 Rad8 19. Nc3 Ng5 20. Rad1 Nf7 21. Bc1 h6 22. Bb2 a6 23. Kf1 Rf8 24. Ne4 Rfe8 25. g3 Rf8 26. Kg2 Rfe8 27. Bc3 Rf8 28. Ba5 Rde8 29. h4 Re6 30. Kh1 Rfe8 31. f3 Rg6 32. h5 Rge6 33. Ncd2 Ng5 34. Nxg5 hxg5 35. Ne4 Rh6 36. g4 Rhe6 37. Kg2 Rf8 38. Nxg5 Ree8 39. Ne4 Re6 40. Rf1 Rfe8 41. Be1 Rf8 42. Bf2 Rfe8 43. g5 Rd8 44. Bxc5 Rd7 45. Be3 Rd8 46. Rc1 Ree8 47. Rh1 Rf8 48. h6 gxh6 49. Rxh6 Rfe8 50. Rch1 Rf8 51. Rh7 Rfe8 52. Nf6+ Kf8 53. g6 Re7 54. Bh6+ Rg7 55. Rxg7 Bc5 56. Rf7# 1-0
+
+[Event "Engine Tournament 2024"]
+[Site "Dell G15"]
+[Date "2024-03-26"]
+[Round "1"]
+[White "sno0p3r"]
+[Black "Stockfish"]
+[Result "0-1"]
+
+1. Nf3 c5 2. Nc3 d5 3. d4 Nf6 4. dxc5 Nc6 5. Qd3 e5 6. Bg5 e4 7. Bxf6 Qxf6 8. Qe3 Be6 9. Ng5 d4 10. Nxh7 Rxh7 11. Qxe4 dxc3 12. Qxh7 cxb2 13. Rd1 Qc3+ 14. Rd2 b1=Q# 0-1
+
