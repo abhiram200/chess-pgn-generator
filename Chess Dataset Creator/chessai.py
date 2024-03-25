@@ -184,7 +184,7 @@ def quiesce(alpha, beta):
 if platform.system() == 'Windows':
     stockfish_executable = "./stockfish"
 else:
-    stockfish_executable = "./stockfish-ubuntu-x86-64"
+    stockfish_executable = "./stockfish_deb"
 
 
 
